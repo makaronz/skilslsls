@@ -161,7 +161,7 @@ Asana, and Notion. Launch in 6 weeks.
 
 ### Constraints Identified
 - **Technical**: Web-first, must be responsive
-- **Brand**: Logo exists, colors TBD
+- **Brand**: Logo exists, color palette to be defined during discovery
 - **Content**: Need copywriting support
 - **Accessibility**: WCAG AA minimum
 - **Timeline**: 6 weeks to launch

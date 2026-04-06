@@ -265,4 +265,4 @@ Provide column spans for each element at each breakpoint.
 
 ### When to Read Each Reference
 
-**`./references/grid-system-taskflow.md`** — Read when you need detailed guidance on grid system taskflow aspects of this skill.
+**`/references/grid-system-taskflow.md`** — Read when you need detailed guidance on grid system taskflow aspects of this skill.

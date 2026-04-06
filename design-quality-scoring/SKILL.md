@@ -304,12 +304,12 @@ Compare scores between [VERSION 1] and [VERSION 2]:
 
 ### When to Read Each Reference
 
-**`./references/design-score-card-taskflow-v2.md`** — Read when you need a concrete example of a completed design scorecard for the TaskFlow v2 project.
+**`/references/design-score-card-taskflow-v2.md`** — Read when you need a concrete example of a completed design scorecard for the TaskFlow v2 project.
 
-**`./references/quality-scoring-frameworks.md`** — Read when selecting a scoring rubric, choosing weight distributions for different project types, or understanding scoring scale systems like the 10-point scale, Likert, or pass/fail criteria.
+**`/references/quality-scoring-frameworks.md`** — Read when selecting a scoring rubric, choosing weight distributions for different project types, or understanding scoring scale systems like the 10-point scale, Likert, or pass/fail criteria.
 
-**`./references/design-evaluation-criteria.md`** — Read when you need detailed evaluation criteria for specific dimensions (visual design, UX, consistency, responsiveness, accessibility, brand) including what to look for and how to score each sub-criterion.
+**`/references/design-evaluation-criteria.md`** — Read when you need detailed evaluation criteria for specific dimensions (visual design, UX, consistency, responsiveness, accessibility, brand) including what to look for and how to score each sub-criterion.
 
-**`./references/scoring-implementation-calibration.md`** — Read when implementing the scoring process, calibrating scores across reviewers, maintaining consistency over time, or setting up scoring automation and tracking dashboards.
+**`/references/scoring-implementation-calibration.md`** — Read when implementing the scoring process, calibrating scores across reviewers, maintaining consistency over time, or setting up scoring automation and tracking dashboards.
 
-**`./references/related-skills.md`** — Read when you need detailed guidance on related skills aspects of this skill.
+**`/references/related-skills.md`** — Read when you need detailed guidance on related skills aspects of this skill.

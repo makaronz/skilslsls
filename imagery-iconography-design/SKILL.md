@@ -302,6 +302,6 @@ Find illustration resources for [PROJECT] that:
 
 ### When to Read Each Reference
 
-**`./references/photography.md`** — Read when you need detailed guidance on photography aspects of this skill.
+**`/references/photography.md`** — Read when you need detailed guidance on photography aspects of this skill.
 
-**`./references/success-criteria.md`** — Read when you need detailed guidance on success criteria aspects of this skill.
+**`/references/success-criteria.md`** — Read when you need detailed guidance on success criteria aspects of this skill.

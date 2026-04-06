@@ -235,4 +235,4 @@ Review iteration V[X] → V[X+1]:
 
 ### When to Read Each Reference
 
-**`./references/iteration-plan-taskflow-v2-v3.md`** — Read when you need detailed guidance on iteration plan taskflow v2 v3 aspects of this skill.
+**`/references/iteration-plan-taskflow-v2-v3.md`** — Read when you need detailed guidance on iteration plan taskflow v2 v3 aspects of this skill.

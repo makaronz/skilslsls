@@ -284,4 +284,4 @@ This curated collection of design resources supports every phase of the design w
 
 ### When to Read Each Reference
 
-**`./references/responsive-design.md`** — Read when you need detailed guidance on responsive design aspects of this skill.
+**`/references/responsive-design.md`** — Read when you need detailed guidance on responsive design aspects of this skill.

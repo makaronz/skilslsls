@@ -302,6 +302,6 @@ stress, not adds to it.
 
 ### When to Read Each Reference
 
-**`./references/common-pitfalls.md`** — Read when you need detailed guidance on common pitfalls aspects of this skill.
+**`/references/common-pitfalls.md`** — Read when you need detailed guidance on common pitfalls aspects of this skill.
 
-**`./references/prompts-library.md`** — Read when you need detailed guidance on prompts library aspects of this skill.
+**`/references/prompts-library.md`** — Read when you need detailed guidance on prompts library aspects of this skill.

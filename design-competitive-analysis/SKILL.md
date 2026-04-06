@@ -286,10 +286,10 @@ For each, rate: Innovation (1-5), Risk (1-5), Feasibility (1-5)
 
 ### When to Read Each Reference
 
-**`./references/competitive-design-analysis-taskflow.md`** — Read when you need detailed guidance on competitive design analysis taskflow aspects of this skill.
+**`/references/competitive-design-analysis-taskflow.md`** — Read when you need detailed guidance on competitive design analysis taskflow aspects of this skill.
 
-**`./references/competitive-analysis-frameworks.md`** — Read when applying SWOT analysis, Porter's Five Forces, heuristic evaluation scorecards, Blue Ocean strategy canvas, or building weighted competitive scoring matrices for design evaluation.
+**`/references/competitive-analysis-frameworks.md`** — Read when applying SWOT analysis, Porter's Five Forces, heuristic evaluation scorecards, Blue Ocean strategy canvas, or building weighted competitive scoring matrices for design evaluation.
 
-**`./references/feature-comparison-matrices.md`** — Read when building feature inventories, creating quality-scored comparison tables, conducting gap analysis, or organizing feature data for strategic product decisions.
+**`/references/feature-comparison-matrices.md`** — Read when building feature inventories, creating quality-scored comparison tables, conducting gap analysis, or organizing feature data for strategic product decisions.
 
-**`./references/market-positioning-analysis.md`** — Read when creating positioning maps, analyzing market segments, developing differentiation strategies, crafting positioning statements, or planning competitive response strategies.
+**`/references/market-positioning-analysis.md`** — Read when creating positioning maps, analyzing market segments, developing differentiation strategies, crafting positioning statements, or planning competitive response strategies.

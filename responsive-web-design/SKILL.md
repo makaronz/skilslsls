@@ -228,11 +228,11 @@ Review responsiveness of [COMPONENT]:
 
 ### When to Read Each Reference
 
-**`./references/responsive-design-taskflow.md`** — Read when you need detailed guidance on responsive design taskflow aspects of this skill.
+**`/references/responsive-design-taskflow.md`** — Read when you need detailed guidance on responsive design taskflow aspects of this skill.
 
 
-**`./references/breakpoint-strategies.md`** — Read when defining breakpoint systems, implementing mobile-first CSS, building fluid grids, using container queries, and choosing between framework breakpoints.
+**`/references/breakpoint-strategies.md`** — Read when defining breakpoint systems, implementing mobile-first CSS, building fluid grids, using container queries, and choosing between framework breakpoints.
 
-**`./references/responsive-patterns-techniques.md`** — Read when implementing responsive layout patterns (mostly fluid, column drop, layout shifter, off-canvas), flexible images, responsive typography, and CSS media query techniques.
+**`/references/responsive-patterns-techniques.md`** — Read when implementing responsive layout patterns (mostly fluid, column drop, layout shifter, off-canvas), flexible images, responsive typography, and CSS media query techniques.
 
-**`./references/responsive-testing-validation.md`** — Read when testing responsive layouts across devices, debugging viewport issues, running visual regression tests, and validating accessibility at different breakpoints.
+**`/references/responsive-testing-validation.md`** — Read when testing responsive layouts across devices, debugging viewport issues, running visual regression tests, and validating accessibility at different breakpoints.

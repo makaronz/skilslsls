@@ -57,4 +57,4 @@ This comprehensive skill system enables AI agents to create visually stunning, u
 
 ### When to Read Each Reference
 
-**`./references/detailed-guidelines.md`** — Read when you need detailed guidance on detailed guidelines aspects of this skill.
+**`/references/detailed-guidelines.md`** — Read when you need detailed guidance on detailed guidelines aspects of this skill.

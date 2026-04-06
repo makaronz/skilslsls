@@ -262,4 +262,4 @@ Check:
 
 ### When to Read Each Reference
 
-**`./references/spacing-system-taskflow.md`** — Read when you need detailed guidance on spacing system taskflow aspects of this skill.
+**`/references/spacing-system-taskflow.md`** — Read when you need detailed guidance on spacing system taskflow aspects of this skill.

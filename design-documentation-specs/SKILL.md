@@ -305,12 +305,12 @@ Design Score: 9.2/10
 
 ### When to Read Each Reference
 
-**`./references/4-components.md`** — Read when you need detailed guidance on 4 components aspects of this skill.
+**`/references/4-components.md`** — Read when you need detailed guidance on 4 components aspects of this skill.
 
-**`./references/7-assets.md`** — Read when you need detailed guidance on 7 assets aspects of this skill.
+**`/references/7-assets.md`** — Read when you need detailed guidance on 7 assets aspects of this skill.
 
-**`./references/component-button.md`** — Read when you need detailed guidance on component button aspects of this skill.
+**`/references/component-button.md`** — Read when you need detailed guidance on component button aspects of this skill.
 
-**`./references/related-skills.md`** — Read when you need detailed guidance on related skills aspects of this skill.
+**`/references/related-skills.md`** — Read when you need detailed guidance on related skills aspects of this skill.
 
-**`./references/table-of-contents.md`** — Read when you need detailed guidance on table of contents aspects of this skill.
+**`/references/table-of-contents.md`** — Read when you need detailed guidance on table of contents aspects of this skill.

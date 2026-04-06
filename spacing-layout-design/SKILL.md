@@ -142,8 +142,8 @@ Use CSS `clamp()` for fluid spacing:
 
 ### When to Read Each Reference
 
-**`./references/spacing-scale-implementation.md`** — Read when implementing CSS custom properties for the spacing scale, building design tokens, or needing detailed code examples for applying spacing.
+**`/references/spacing-scale-implementation.md`** — Read when implementing CSS custom properties for the spacing scale, building design tokens, or needing detailed code examples for applying spacing.
 
-**`./references/vertical-rhythm-guide.md`** — Read when establishing baseline grids, aligning element heights, or needing detailed vertical rhythm patterns for text and components.
+**`/references/vertical-rhythm-guide.md`** — Read when establishing baseline grids, aligning element heights, or needing detailed vertical rhythm patterns for text and components.
 
-**`./references/responsive-spacing-patterns.md`** — Read when designing responsive spacing adjustments, implementing fluid spacing with clamp(), or auditing spacing across breakpoints.
+**`/references/responsive-spacing-patterns.md`** — Read when designing responsive spacing adjustments, implementing fluid spacing with clamp(), or auditing spacing across breakpoints.

@@ -56,52 +56,52 @@ Recommend:
 
 ```markdown
 
-## Color System: [PROJECT NAME]
+## Color System: [Project Name]
 ### Primary Colors
 | Name | Hex | RGB | Usage |
 |------|-----|-----|-------|
-| Primary-500 | #[HEX] | rgb(R,G,B) | Main brand color, primary CTAs |
-| Primary-400 | #[HEX] | rgb(R,G,B) | Hover states |
-| Primary-600 | #[HEX] | rgb(R,G,B) | Active/pressed states |
-| Primary-100 | #[HEX] | rgb(R,G,B) | Light backgrounds |
-| Primary-900 | #[HEX] | rgb(R,G,B) | Dark text on light primary |
+| Primary-500 | #3B82F6 | rgb(59,130,246) | Main brand color, primary CTAs |
+| Primary-400 | #60A5FA | rgb(96,165,250) | Hover states |
+| Primary-600 | #2563EB | rgb(37,99,235) | Active/pressed states |
+| Primary-100 | #DBEAFE | rgb(219,234,254) | Light backgrounds |
+| Primary-900 | #1E3A8A | rgb(30,58,138) | Dark text on light primary |
 
 ### Secondary Colors
 | Name | Hex | RGB | Usage |
 |------|-----|-----|-------|
-| Secondary-500 | #[HEX] | rgb(R,G,B) | Accent, secondary actions |
-| Secondary-400 | #[HEX] | rgb(R,G,B) | Hover |
-| Secondary-600 | #[HEX] | rgb(R,G,B) | Active |
+| Secondary-500 | #8B5CF6 | rgb(139,92,246) | Accent, secondary actions |
+| Secondary-400 | #A78BFA | rgb(167,139,250) | Hover |
+| Secondary-600 | #7C3AED | rgb(124,58,237) | Active |
 
 ### Neutral Colors
 | Name | Hex | RGB | Usage |
 |------|-----|-----|-------|
-| Gray-900 | #[HEX] | | Primary text |
-| Gray-700 | #[HEX] | | Secondary text |
-| Gray-500 | #[HEX] | | Placeholder, disabled |
-| Gray-300 | #[HEX] | | Borders |
-| Gray-100 | #[HEX] | | Backgrounds, hover |
-| Gray-50 | #[HEX] | | Page background |
+| Gray-900 | #111827 | | Primary text |
+| Gray-700 | #374151 | | Secondary text |
+| Gray-500 | #6B7280 | | Placeholder, disabled |
+| Gray-300 | #D1D5DB | | Borders |
+| Gray-100 | #F3F4F6 | | Backgrounds, hover |
+| Gray-50 | #F9FAFB | | Page background |
 | White | #FFFFFF | | Cards, inputs |
 
 ### Semantic Colors
 | Name | Hex | Usage |
 |------|-----|-------|
-| Success | #[HEX] | Success messages, confirmations |
-| Success-light | #[HEX] | Success backgrounds |
-| Warning | #[HEX] | Warnings, cautions |
-| Warning-light | #[HEX] | Warning backgrounds |
-| Error | #[HEX] | Errors, destructive actions |
-| Error-light | #[HEX] | Error backgrounds |
-| Info | #[HEX] | Information, tips |
-| Info-light | #[HEX] | Info backgrounds |
+| Success | #10B981 | Success messages, confirmations |
+| Success-light | #D1FAE5 | Success backgrounds |
+| Warning | #F59E0B | Warnings, cautions |
+| Warning-light | #FEF3C7 | Warning backgrounds |
+| Error | #EF4444 | Errors, destructive actions |
+| Error-light | #FEE2E2 | Error backgrounds |
+| Info | #3B82F6 | Information, tips |
+| Info-light | #DBEAFE | Info backgrounds |
 ```
 
 ### Step 3: Generate Color Scale
 
 **Prompt for scale generation:**
 ```
-Given primary color #[HEX], generate a complete scale:
+Given primary color #3B82F6, generate a complete scale:
 
 50:  [Very light, almost white tint]
 100: [Light tint for backgrounds]
@@ -203,7 +203,7 @@ Provide:
 
 ### Color Scale from Single Color
 ```
-Given #[HEX] as the base (500), generate:
+Given #3B82F6 as the base (500), generate:
 - Lighter variations: 50, 100, 200, 300, 400
 - Darker variations: 600, 700, 800, 900
 
@@ -213,8 +213,8 @@ Format as table with hex values.
 ### Accessibility Fix
 ```
 This color combination fails WCAG:
-Foreground: #[HEX]
-Background: #[HEX]
+Foreground: #111827
+Background: #FFFFFF
 Current ratio: [RATIO]
 Required: 4.5:1
 
@@ -271,10 +271,10 @@ Suggest alternatives that:
 
 ### When to Read Each Reference
 
-**`./references/color-theory-psychology.md`** — Read when you need to understand color theory fundamentals, color harmony systems (complementary, analogous, triadic), the psychology of color and emotional impact, cultural color associations, or the 60-30-10 rule for palette distribution.
+**`/references/color-theory-psychology.md`** — Read when you need to understand color theory fundamentals, color harmony systems (complementary, analogous, triadic), the psychology of color and emotional impact, cultural color associations, or the 60-30-10 rule for palette distribution.
 
-**`./references/accessibility-contrast-wcag.md`** — Read when you need to verify WCAG contrast ratios, design for color vision deficiencies, build accessible palettes with proper neutral scales, implement dark mode accessibility, or select contrast testing tools and workflows.
+**`/references/accessibility-contrast-wcag.md`** — Read when you need to verify WCAG contrast ratios, design for color vision deficiencies, build accessible palettes with proper neutral scales, implement dark mode accessibility, or select contrast testing tools and workflows.
 
-**`./references/color-system-implementation.md`** — Read when you need to implement design tokens for color (primitive, semantic, component tiers), define naming conventions, set up CSS custom properties or Tailwind config, use Style Dictionary for multi-platform output, or generate perceptually uniform color scales with OKLCH.
+**`/references/color-system-implementation.md`** — Read when you need to implement design tokens for color (primitive, semantic, component tiers), define naming conventions, set up CSS custom properties or Tailwind config, use Style Dictionary for multi-platform output, or generate perceptually uniform color scales with OKLCH.
 
-**`./references/color-system-taskflow.md`** — Read when you need detailed guidance on color system taskflow aspects of this skill.
+**`/references/color-system-taskflow.md`** — Read when you need detailed guidance on color system taskflow aspects of this skill.

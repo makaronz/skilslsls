@@ -124,10 +124,10 @@ Asana, and Notion. Launch in 6 weeks.
 
 ### When to Read Each Reference
 
-**`./references/detailed-guidelines.md`** — Read when you need detailed guidance on detailed guidelines aspects of this skill.
+**`/references/detailed-guidelines.md`** — Read when you need detailed guidance on detailed guidelines aspects of this skill.
 
-**`./references/research-planning-methodology.md`** — Read when selecting research methods, building research briefs, designing interview guides or usability test plans, or planning participant recruitment and study logistics.
+**`/references/research-planning-methodology.md`** — Read when selecting research methods, building research briefs, designing interview guides or usability test plans, or planning participant recruitment and study logistics.
 
-**`./references/research-synthesis-analysis.md`** — Read when analyzing collected research data using affinity mapping, thematic analysis, coding techniques, or extracting actionable insights from qualitative findings.
+**`/references/research-synthesis-analysis.md`** — Read when analyzing collected research data using affinity mapping, thematic analysis, coding techniques, or extracting actionable insights from qualitative findings.
 
-**`./references/research-reporting-insights.md`** — Read when structuring research reports for different stakeholders, communicating findings constructively, building a research repository, or converting insights into backlog items.
+**`/references/research-reporting-insights.md`** — Read when structuring research reports for different stakeholders, communicating findings constructively, building a research repository, or converting insights into backlog items.

@@ -298,8 +298,8 @@ Figma comments: Enabled for questions
 
 ### When to Read Each Reference
 
-**`./references/communication.md`** — Read when you need detailed guidance on communication aspects of this skill.
+**`/references/communication.md`** — Read when you need detailed guidance on communication aspects of this skill.
 
-**`./references/related-skills.md`** — Read when you need detailed guidance on related skills aspects of this skill.
+**`/references/related-skills.md`** — Read when you need detailed guidance on related skills aspects of this skill.
 
-**`./references/whats-included.md`** — Read when you need detailed guidance on whats included aspects of this skill.
+**`/references/whats-included.md`** — Read when you need detailed guidance on whats included aspects of this skill.

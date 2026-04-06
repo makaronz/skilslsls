@@ -183,8 +183,8 @@ Define how layouts collapse at smaller breakpoints:
 
 ### When to Read Each Reference
 
-**`./references/grid-specifications-detail.md`** — Read when needing detailed grid specifications for specific project types, including sidebar configurations, max-width calculations, and grid math.
+**`/references/grid-specifications-detail.md`** — Read when needing detailed grid specifications for specific project types, including sidebar configurations, max-width calculations, and grid math.
 
-**`./references/layout-patterns-examples.md`** — Read when designing specific page layouts (dashboard, landing page, task detail) or needing concrete examples of grid application with ASCII diagrams.
+**`/references/layout-patterns-examples.md`** — Read when designing specific page layouts (dashboard, landing page, task detail) or needing concrete examples of grid application with ASCII diagrams.
 
-**`./references/grid-implementation-css.md`** — Read when implementing grids in CSS, needing utility class definitions, responsive media queries, or Tailwind/Bootstrap grid equivalents.
+**`/references/grid-implementation-css.md`** — Read when implementing grids in CSS, needing utility class definitions, responsive media queries, or Tailwind/Bootstrap grid equivalents.

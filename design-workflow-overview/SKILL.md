@@ -63,4 +63,4 @@ This document outlines how all skills connect in a cohesive, iterative design wo
 
 ### When to Read Each Reference
 
-**`./references/detailed-guidelines.md`** — Read when you need detailed guidance on detailed guidelines aspects of this skill.
+**`/references/detailed-guidelines.md`** — Read when you need detailed guidance on detailed guidelines aspects of this skill.

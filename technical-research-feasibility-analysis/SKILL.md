@@ -237,8 +237,8 @@ organizational_context:
 
 | ID | Risk | Category | Probability | Impact | Severity | Mitigation | Owner |
 |----|------|----------|-------------|--------|----------|------------|-------|
-| R1 | Description | Technical | High | High | Critical | Mitigation plan | TBD |
-| R2 | Description | Economic | Medium | High | High | Mitigation plan | TBD |
+| R1 | API rate limits exceed projected load | Technical | High | High | Critical | Implement caching and request queuing | Tech Lead |
+| R2 | Cloud infrastructure costs exceed budget | Economic | Medium | High | High | Set billing alerts and auto-scaling limits | Project Manager |
 
 **8. Recommendations and Next Steps**
 

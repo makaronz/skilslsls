@@ -150,12 +150,12 @@ For each key user task verify:
 
 ### When to Read Each Reference
 
-**`./references/review-checklists-detail.md`** — Read when conducting a thorough design review and needing complete element-by-element checklists for typography, color, layout, and components.
+**`/references/review-checklists-detail.md`** — Read when conducting a thorough design review and needing complete element-by-element checklists for typography, color, layout, and components.
 
-**`./references/review-report-examples.md`** — Read when writing a design review report and needing concrete examples of findings, scores, and screen-by-screen notes.
+**`/references/review-report-examples.md`** — Read when writing a design review report and needing concrete examples of findings, scores, and screen-by-screen notes.
 
-**`./references/review-prompts-templates.md`** — Read when needing AI prompts for quick reviews, focused reviews (typography-only, UX-only), or comparative design reviews.
+**`/references/review-prompts-templates.md`** — Read when needing AI prompts for quick reviews, focused reviews (typography-only, UX-only), or comparative design reviews.
 
-**`./references/review-process-facilitation.md`** — Read when planning or facilitating design reviews, choosing review types (team critique, cross-functional, pair review), structuring meetings, or applying facilitation techniques like I Like/I Wish/What If or silent critique.
+**`/references/review-process-facilitation.md`** — Read when planning or facilitating design reviews, choosing review types (team critique, cross-functional, pair review), structuring meetings, or applying facilitation techniques like I Like/I Wish/What If or silent critique.
 
-**`./references/feedback-collection-synthesis.md`** — Read when collecting feedback from multiple sources, synthesizing input using affinity mapping, resolving contradictory feedback, prioritizing issues, or converting feedback into actionable iteration plans.
+**`/references/feedback-collection-synthesis.md`** — Read when collecting feedback from multiple sources, synthesizing input using affinity mapping, resolving contradictory feedback, prioritizing issues, or converting feedback into actionable iteration plans.

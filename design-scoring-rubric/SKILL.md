@@ -304,6 +304,6 @@ This comprehensive rubric provides a standardized 1-10 scoring system for evalua
 
 ### When to Read Each Reference
 
-**`./references/category-6-brand-identity-10.md`** — Read when you need detailed guidance on category 6 brand identity 10 aspects of this skill.
+**`/references/category-6-brand-identity-10.md`** — Read when you need detailed guidance on category 6 brand identity 10 aspects of this skill.
 
-**`./references/quick-reference-checklist.md`** — Read when you need detailed guidance on quick reference checklist aspects of this skill.
+**`/references/quick-reference-checklist.md`** — Read when you need detailed guidance on quick reference checklist aspects of this skill.

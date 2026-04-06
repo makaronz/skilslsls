@@ -106,12 +106,12 @@ When reviewing an existing flow, check for:
 
 ### When to Read Each Reference
 
-**`./references/flow-mapping-methodology.md`** — Read when planning a flow mapping session, needing detailed templates for flow structure, or requiring ASCII diagram syntax for documenting flows.
+**`/references/flow-mapping-methodology.md`** — Read when planning a flow mapping session, needing detailed templates for flow structure, or requiring ASCII diagram syntax for documenting flows.
 
-**`./references/flow-examples-patterns.md`** — Read when needing concrete examples of user flows (sign-up, project creation, task management) or common flow patterns for SaaS, e-commerce, or mobile apps.
+**`/references/flow-examples-patterns.md`** — Read when needing concrete examples of user flows (sign-up, project creation, task management) or common flow patterns for SaaS, e-commerce, or mobile apps.
 
-**`./references/flow-optimization-prompts.md`** — Read when optimizing existing flows, conducting flow audits, or needing AI prompts for flow identification, optimization, and error handling design.
+**`/references/flow-optimization-prompts.md`** — Read when optimizing existing flows, conducting flow audits, or needing AI prompts for flow identification, optimization, and error handling design.
 
-**`./references/user-flow-mapping-techniques.md`** — Read when selecting flow diagram types (task flow, wireflow, swimlane, service blueprint), choosing mapping methods (goal-first, screen-first, JTBD), facilitating collaborative mapping workshops, or establishing flow notation standards and tools.
+**`/references/user-flow-mapping-techniques.md`** — Read when selecting flow diagram types (task flow, wireflow, swimlane, service blueprint), choosing mapping methods (goal-first, screen-first, JTBD), facilitating collaborative mapping workshops, or establishing flow notation standards and tools.
 
-**`./references/error-states-edge-cases.md`** — Read when designing error messages and UI patterns, identifying edge case scenarios, creating recovery flows, implementing destructive action protection, or building error prevention strategies.
+**`/references/error-states-edge-cases.md`** — Read when designing error messages and UI patterns, identifying edge case scenarios, creating recovery flows, implementing destructive action protection, or building error prevention strategies.

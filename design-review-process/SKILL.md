@@ -296,6 +296,6 @@ Compare [DESIGN A] vs [DESIGN B]:
 
 ### When to Read Each Reference
 
-**`./references/design-review-report-taskflow-dashboard-v1.md`** — Read when you need detailed guidance on design review report taskflow dashboard v1 aspects of this skill.
+**`/references/design-review-report-taskflow-dashboard-v1.md`** — Read when you need detailed guidance on design review report taskflow dashboard v1 aspects of this skill.
 
-**`./references/success-criteria.md`** — Read when you need detailed guidance on success criteria aspects of this skill.
+**`/references/success-criteria.md`** — Read when you need detailed guidance on success criteria aspects of this skill.

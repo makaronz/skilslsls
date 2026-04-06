@@ -303,6 +303,6 @@ This flow requires these screens:
 
 ### When to Read Each Reference
 
-**`./references/critical-flow-2-create-project.md`** — Read when you need detailed guidance on critical flow 2 create project aspects of this skill.
+**`/references/critical-flow-2-create-project.md`** — Read when you need detailed guidance on critical flow 2 create project aspects of this skill.
 
-**`./references/prompts-library.md`** — Read when you need detailed guidance on prompts library aspects of this skill.
+**`/references/prompts-library.md`** — Read when you need detailed guidance on prompts library aspects of this skill.

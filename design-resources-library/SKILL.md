@@ -125,8 +125,8 @@ This skill provides a comprehensive directory of design resources organized by c
 
 ### When to Read Each Reference
 
-**`./references/tools-and-software.md`** — Read when selecting design tools (Figma, Sketch, prototyping tools), animation software, or image optimization utilities.
+**`/references/tools-and-software.md`** — Read when selecting design tools (Figma, Sketch, prototyping tools), animation software, or image optimization utilities.
 
-**`./references/stock-assets-media.md`** — Read when sourcing stock photos, avatars, image optimization tools, or free media assets for designs.
+**`/references/stock-assets-media.md`** — Read when sourcing stock photos, avatars, image optimization tools, or free media assets for designs.
 
-**`./references/learning-and-accessibility.md`** — Read when needing accessibility guidelines (WCAG), testing tools (axe, WAVE), UX research resources, or design learning platforms and books.
+**`/references/learning-and-accessibility.md`** — Read when needing accessibility guidelines (WCAG), testing tools (axe, WAVE), UX research resources, or design learning platforms and books.

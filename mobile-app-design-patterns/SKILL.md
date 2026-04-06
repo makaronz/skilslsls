@@ -266,11 +266,11 @@ Mobile App Design applies platform-specific patterns and conventions for iOS and
 
 ### When to Read Each Reference
 
-**`./references/mobile-app-design-taskflow.md`** — Read when you need detailed guidance on mobile app design taskflow aspects of this skill.
+**`/references/mobile-app-design-taskflow.md`** — Read when you need detailed guidance on mobile app design taskflow aspects of this skill.
 
 
-**`./references/platform-specific-patterns.md`** — Read when designing for iOS vs Android, comparing Human Interface Guidelines with Material Design, and deciding on cross-platform design strategy.
+**`/references/platform-specific-patterns.md`** — Read when designing for iOS vs Android, comparing Human Interface Guidelines with Material Design, and deciding on cross-platform design strategy.
 
-**`./references/mobile-navigation-patterns.md`** — Read when choosing mobile navigation patterns (tab bars, drawers, bottom sheets, FABs), designing search navigation, and selecting patterns by app type.
+**`/references/mobile-navigation-patterns.md`** — Read when choosing mobile navigation patterns (tab bars, drawers, bottom sheets, FABs), designing search navigation, and selecting patterns by app type.
 
-**`./references/touch-gestures-interactions.md`** — Read when designing touch interactions, implementing swipe actions, configuring haptic feedback, handling drag-and-drop, and ensuring gesture accessibility.
+**`/references/touch-gestures-interactions.md`** — Read when designing touch interactions, implementing swipe actions, configuring haptic feedback, handling drag-and-drop, and ensuring gesture accessibility.

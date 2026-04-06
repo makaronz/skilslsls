@@ -296,6 +296,6 @@ Interaction Design defines how users interact with the interface through animati
 
 ### When to Read Each Reference
 
-**`./references/prompts-library.md`** — Read when you need detailed guidance on prompts library aspects of this skill.
+**`/references/prompts-library.md`** — Read when you need detailed guidance on prompts library aspects of this skill.
 
-**`./references/task-completion-interaction.md`** — Read when you need detailed guidance on task completion interaction aspects of this skill.
+**`/references/task-completion-interaction.md`** — Read when you need detailed guidance on task completion interaction aspects of this skill.
