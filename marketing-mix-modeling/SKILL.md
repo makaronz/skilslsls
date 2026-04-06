@@ -451,6 +451,42 @@ Implementation: Rolling window models, state-space models, Bayesian dynamic mode
 - Suggest new channel experiments
 - Propose spend variation tests
 
+## Integration with Marketing Strategy
+
+### Annual Planning
+
+Use MMM to inform:
+- Total marketing budget recommendation
+- Channel allocation across the year
+- Seasonal budget distribution
+- New channel investment decisions
+- Performance targets and KPIs
+
+### In-Flight Optimization
+
+Use updated MMM for:
+- Mid-year budget reallocation
+- Responding to market changes
+- Adjusting underperforming channels
+- Capitalizing on high-performing channels
+
+### Cross-Functional Alignment
+
+**Finance**
+- Sales forecasting for revenue planning
+- Marketing budget justification
+- ROI reporting and accountability
+
+**Sales**
+- Understanding marketing's contribution to pipeline
+- Coordinating promotions and campaigns
+- Regional allocation decisions
+
+**Product**
+- Launch planning and investment
+- Product-level marketing effectiveness
+- Pricing strategy insights
+
 ## Using the Reference Files
 
 This skill includes reference materials to support your learning:

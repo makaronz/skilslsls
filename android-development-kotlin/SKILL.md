@@ -458,6 +458,35 @@ val colorScheme = when {
    - Use Play App Signing (recommended)
    - Manage signing keys securely
 
+### Continuous Integration
+
+- GitHub Actions
+- GitLab CI/CD
+- Bitrise
+- Fastlane for automation
+
+## Platform-Specific Features
+
+### Adaptive Layouts
+
+```kotlin
+@Composable
+fun AdaptiveLayout() {
+    val windowSizeClass = calculateWindowSizeClass(this)
+    
+    when (windowSizeClass.widthSizeClass) {
+        WindowWidthSizeClass.Compact -> CompactLayout()
+        WindowWidthSizeClass.Medium -> MediumLayout()
+        WindowWidthSizeClass.Expanded -> ExpandedLayout()
+Use WindowManager library for foldable devices:
+
+```kotlin
+val windowLayoutInfo = rememberWindowLayoutInfo()
+val foldingFeature = windowLayoutInfo.displayFeatures
+    .filterIsInstance<FoldingFeature>()
+    .firstOrNull()
+```
+
 ## Using the Reference Files
 
 This skill includes reference materials to support your learning:
