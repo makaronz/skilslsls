@@ -97,4 +97,6 @@ Read when applying statistical analysis, SPC, DOE, or hypothesis testing in Six 
 
 **`/references/lean-six-sigma.md`** — Lean Six Sigma Integration.
 
+**`/references/six-sigma.md`** — Six Sigma.
+
 **`/references/toc-bpr.md`** — Theory of Constraints and Business Process Reengineering.
