@@ -302,3 +302,8 @@ he worked in tech startups, so he's comfortable with software tools.
 **`./references/persona-3-jordan-blake-edge-case.md`** — Read when you need detailed guidance on persona 3 jordan blake edge case aspects of this skill.
 
 **`./references/success-criteria.md`** — Read when you need detailed guidance on success criteria aspects of this skill.
+
+
+**`./references/persona-research-methods.md`** — Read when planning persona research, designing interview guides, conducting surveys, analyzing behavioral data, and synthesizing findings into persona archetypes.
+
+**`./references/persona-templates-formats.md`** — Read when choosing persona formats (lean, standard, comprehensive, JTBD), creating persona documents, and establishing persona governance and maintenance processes.

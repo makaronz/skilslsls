@@ -276,3 +276,10 @@ Consider:
 ### When to Read Each Reference
 
 **`./references/screen-dashboard.md`** — Read when you need detailed guidance on screen dashboard aspects of this skill.
+
+
+**`./references/wireframe-fidelity-levels.md`** — Read when deciding between low, mid, and high-fidelity wireframes, understanding when to use each level, and planning progressive fidelity workflows.
+
+**`./references/wireframe-patterns-components.md`** — Read when selecting navigation patterns, page layouts, UI components, form patterns, and data table designs for wireframes.
+
+**`./references/wireframe-annotation-documentation.md`** — Read when annotating wireframes for developer handoff, documenting interaction behavior, writing design specifications, and preparing deliverables.
