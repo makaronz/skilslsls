@@ -1,4 +1,5 @@
 ---
+name: "guerrilla-marketing-tactics"
 title: "Guerrilla Marketing Tactics"
 description: "Master unconventional, low-cost marketing strategies that create surprise, generate buzz, and maximize impact through creativity rather than large budgets. Learn to execute memorable campaigns that drive word-of-mouth and viral engagement."
 category: "Business & Operations"

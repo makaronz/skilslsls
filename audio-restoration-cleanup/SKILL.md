@@ -1,4 +1,5 @@
 ---
+name: "audio-restoration-cleanup"
 title: "Audio Restoration & Cleanup"
 description: "Specialized techniques for removing noise, repairing damaged audio, and restoring clarity to recordings using spectral editing and advanced restoration tools."
 category: "Creative & Production"

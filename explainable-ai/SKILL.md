@@ -469,7 +469,6 @@ indices = np.argsort(importances)[::-1]
 
 plt.figure(figsize=(10, 6))
 
-
 ## Best Practices
 
 **Choosing Methods**: Use SHAP for comprehensive analysis, LIME for quick local explanations, attention for sequences/images
@@ -486,16 +485,13 @@ plt.figure(figsize=(10, 6))
 - **Alibi**: Model inspection
 
 ## Learning Path
-
 1. **Basics**: Feature importance, visualizations
 2. **Intermediate**: SHAP, LIME, attention
 3. **Advanced**: Counterfactuals, custom methods
 4. **Expert**: Quality metrics, production deployment
 
 ## Using the Reference Files
-
 This skill includes reference materials to support your learning:
-
 - [Ethical Considerations](./references/ethical-considerations.md)
 - [Implementation Tools](./references/implementation-tools.md)
 - [Interpretability Methods](./references/interpretability-methods.md)

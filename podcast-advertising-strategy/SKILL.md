@@ -1,4 +1,5 @@
 ---
+name: "podcast-advertising-strategy"
 title: "Podcast Advertising Strategy"
 description: "Master the art and science of podcast advertising, from audience targeting and ad format selection to campaign planning, measurement, and ROI optimization across the podcast ecosystem."
 category: "Advertising & Marketing"

@@ -1,4 +1,5 @@
 ---
+name: "poetry-writing"
 title: "Poetry Writing"
 description: "Crafting expressive verse through mastery of poetic forms, imagery, rhythm, and revision techniques to create impactful literary works."
 category: "Creative & Production"

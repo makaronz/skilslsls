@@ -1,4 +1,5 @@
 ---
+name: "foley-sound-effects"
 title: "Foley Sound Effects"
 description: "Creating and recording custom sound effects synchronized to picture using props, performance techniques, and specialized recording methods for film and media."
 category: "Creative & Production"

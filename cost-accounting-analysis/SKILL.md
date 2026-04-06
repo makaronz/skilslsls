@@ -1,4 +1,5 @@
 ---
+name: "cost-accounting-analysis"
 title: "Cost Accounting Analysis"
 description: "Expertise in tracking, analyzing, and managing organizational costs through various costing methods, variance analysis, and decision-making frameworks to optimize operational efficiency and profitability."
 category: "Finance & Accounting"

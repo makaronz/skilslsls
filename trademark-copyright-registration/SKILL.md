@@ -1,4 +1,5 @@
 ---
+name: "trademark-copyright-registration"
 title: "Trademark & Copyright Registration"
 description: "Expertise in protecting intellectual property through trademark and copyright registration processes, including application preparation, examination navigation, and enforcement strategies."
 category: "Legal & Compliance"

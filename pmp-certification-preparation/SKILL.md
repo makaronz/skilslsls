@@ -1,4 +1,5 @@
 ---
+name: "pmp-certification-preparation"
 title: "PMP Certification Preparation"
 description: "Master the comprehensive preparation strategy for the Project Management Professional (PMP) certification exam, covering PMBOK Guide principles, exam structure, study methodologies, and success strategies for achieving PMP certification."
 category: "Project Management"

@@ -1,4 +1,5 @@
 ---
+name: "digital-out-of-home-dooh"
 title: "Digital Out-of-Home (DOOH) Advertising"
 description: "Master digital out-of-home advertising strategy, from understanding DOOH formats and technology to programmatic buying, creative optimization, and measurement across the evolving DOOH ecosystem."
 category: "Advertising & Marketing"

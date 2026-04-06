@@ -1,4 +1,5 @@
 ---
+name: "litigation-dispute-resolution"
 title: "Litigation & Dispute Resolution"
 description: "Expertise in managing civil litigation processes, alternative dispute resolution methods, case strategy development, and conflict resolution to achieve favorable outcomes for clients through courtroom advocacy or negotiated settlements."
 category: "Legal & Compliance"

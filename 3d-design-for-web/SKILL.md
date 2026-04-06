@@ -1,8 +1,5 @@
 ---
-description: "3d-design-for-web skill"
----
-
----
+name: "3d-design-for-web"
 title: "3D Design for Web"
 description: "Master creating immersive 3D web experiences using WebGL, Three.js, and modern web technologies. Learn 3D modeling optimization, interactive design patterns, and performance strategies for delivering engaging real-time graphics in the browser."
 category: "Development & Tech"

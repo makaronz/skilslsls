@@ -482,22 +482,17 @@ Progress through stages of CS sophistication:
 - *The Customer Success Professional's Handbook* by Ashvin Vaidyanathan and Ruben Rabago
 - *Customer Success Economy* by Nick Mehta and Allison Pickens
 - *Farm Don't Hunt* by Guy Nirpaz and Fernando Pizarro
-
 **Certifications:**
 - Gainsight Customer Success Certification
 - Practical CSM Certification
 - Customer Success Association Certifications
-
 **Communities:**
 - Gain Grow Retain (GGR), Customer Success Collective, Success League, CS Insider
-
 **Industry Resources:**
 - Customer Success Association, Gainsight Pulse Conference, ChurnZero Resources, SaaS Metrics and Benchmarks
 
 ## Using the Reference Files
-
 This skill includes reference materials to support your learning:
-
 - [Cs Operations](./references/cs-operations.md) — Operational frameworks, automation strategies, and CS technology stack optimization
 - [Expansion Strategies](./references/expansion-strategies.md) — Detailed expansion playbooks, upsell/cross-sell tactics, and revenue optimization strategies
 - [Health Scoring](./references/health-scoring.md) — Comprehensive health scoring models, risk mitigation strategies, and churn prediction frameworks

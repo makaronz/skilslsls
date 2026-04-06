@@ -1,8 +1,5 @@
 ---
-description: "design-for-accessibility-a11y skill"
----
-
----
+name: "design-for-accessibility-a11y"
 title: "Design for Accessibility (A11y)"
 description: "Master creating inclusive digital experiences that work for everyone. Learn WCAG standards, semantic HTML, ARIA patterns, testing methodologies, and inclusive design principles to build accessible websites and applications."
 category: "Development & Tech"

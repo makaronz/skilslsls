@@ -478,7 +478,6 @@ Sketch is a vector-based design tool exclusively for macOS, focused on UI/UX des
 ## Workflow Tips
 
 ### Keyboard Shortcuts
-
 **Essential Shortcuts**:
 - Cmd+Y: Create symbol
 - Cmd+G: Group
@@ -488,17 +487,13 @@ Sketch is a vector-based design tool exclusively for macOS, focused on UI/UX des
 - Cmd+Shift+L: Unlock all
 - Cmd+E: Export
 - Cmd+K: Scale
-
 **Custom Shortcuts**:
 - Preferences > Shortcuts
 - Assign to frequent actions
 - Plugin shortcuts
 
 ## Using the Reference Files
-
 This skill includes reference materials to support your learning:
-
 - [Plugin Ecosystem](./references/plugin-ecosystem.md)
 - [Symbols Libraries](./references/symbols-libraries.md)
-- [Plugin Ecosystem](./references/plugin-ecosystem.md): Plugin Ecosystem
-- [Symbols Libraries](./references/symbols-libraries.md): Symbols Libraries
+

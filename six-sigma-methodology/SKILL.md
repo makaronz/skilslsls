@@ -1,4 +1,5 @@
 ---
+name: "six-sigma-methodology"
 title: "Six Sigma Methodology"
 description: "Master the Six Sigma quality management methodology, including DMAIC and DMADV frameworks, statistical tools and techniques, certification levels, and implementation strategies for driving process improvement and operational excellence."
 category: "Project Management"
