@@ -218,3 +218,9 @@ For [CONTENT TYPE], define the information hierarchy:
 ### When to Read Each Reference
 
 **`./references/information-architecture-taskflow.md`** — Read when you need detailed guidance on information architecture taskflow aspects of this skill.
+
+**`./references/ia-principles-methodologies.md`** — Read when applying IA fundamentals (three circles of IA, design principles), choosing organization systems and schemes, designing labeling strategies, building metadata frameworks, or conducting content audits.
+
+**`./references/card-sorting-tree-testing.md`** — Read when planning card sorting studies (open, closed, or hybrid), running tree tests to validate navigation hierarchies, analyzing sort results with similarity matrices, or reporting IA validation findings.
+
+**`./references/navigation-systems-taxonomies.md`** — Read when selecting navigation patterns (top bar, sidebar, tabs, mobile), designing taxonomies and faceted navigation, implementing wayfinding indicators, optimizing search and findability, or ensuring navigation accessibility.
