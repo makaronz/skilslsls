@@ -4,8 +4,8 @@ description: "Expertise in managing civil litigation processes, alternative disp
 category: "Legal & Compliance"
 tags: ["litigation", "dispute resolution", "mediation", "arbitration", "trial advocacy", "case management", "legal strategy", "ADR"]
 difficulty: "advanced"
-prerequisites: ["legal-research-writing", "contract-law", "civil-procedure", "evidence-law"]
-related_skills: ["legal-compliance-management", "contract-negotiation", "risk-management", "legal-research-writing"]
+prerequisites: ["legal-compliance-analysis", "contract-review-analysis", "civil-procedure", "evidence-law"]
+related_skills: ["legal-compliance-analysis", "contract-review-analysis", "risk-management-enterprise-risk", "compliance-management"]
 version: "1.0.0"
 last_updated: "2026-03-18"
 ---
@@ -288,10 +288,10 @@ Litigation and dispute resolution requires analytical rigor, strategic thinking,
 
 ## See Also
 
-- [Legal Research & Writing](../legal-research-writing/SKILL.md)
-- [Contract Negotiation](../contract-negotiation/SKILL.md)
-- [Legal Compliance Management](../legal-compliance-management/SKILL.md)
-- [Risk Management](../risk-management/SKILL.md)
+- [Legal Compliance Analysis](../legal-compliance-analysis/SKILL.md)
+- [Contract Review & Analysis](../contract-review-analysis/SKILL.md)
+- [Risk Management & Enterprise Risk](../risk-management-enterprise-risk/SKILL.md)
+- [Compliance Management](../compliance-management/SKILL.md)
 - [Litigation Fundamentals Reference](./references/litigation-fundamentals.md)
 - [Dispute Resolution Methods Reference](./references/dispute-resolution-methods.md)
 - [Litigation Process Reference](./references/litigation-process.md)
@@ -303,4 +303,3 @@ Litigation and dispute resolution requires analytical rigor, strategic thinking,
 - [Litigation Fundamentals](./references/litigation-fundamentals.md): Litigation Fundamentals
 - [Litigation Process](./references/litigation-process.md): Litigation Process
 - [Strategy Management](./references/strategy-management.md): Strategy Management
-

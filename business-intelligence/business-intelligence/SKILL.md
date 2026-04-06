@@ -466,4 +466,4 @@ Costs:
 
 **`/references/tool-comparison.md`** — Read when evaluating BI tools, understanding platform capabilities, or making technology selection decisions.
 
-**`/references/data-visualization-guide.md`** — Read when choosing chart types, creating effective visualizations, or improving data storytelling.
+**`/references/data-visualization.md`** — Read when choosing chart types, creating effective visualizations, or improving data storytelling.
