@@ -145,3 +145,7 @@ Each iteration should be scoped to 4–8 hours of work maximum. Smaller, frequen
 **`./references/change-implementation-patterns.md`** — Read when implementing specific design changes (typography, shadows, focus states, mobile) and needing detailed CSS specifications and design token updates.
 
 **`./references/iteration-prompts.md`** — Read when needing AI prompts for iteration planning, change implementation, or post-iteration validation.
+
+**`./references/iteration-prioritization-frameworks.md`** — Read when prioritizing which design improvements to tackle first, using Impact/Effort matrices, RICE scoring, MoSCoW scoping, or score-driven gap analysis to plan iteration roadmaps.
+
+**`./references/design-refinement-techniques.md`** — Read when executing specific refinements like typography tuning, spacing standardization, color adjustments, component state completeness, responsive polish, or edge case handling during the final polish phase.

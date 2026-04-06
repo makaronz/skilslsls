@@ -260,4 +260,10 @@ Accessibility Review ensures designs meet WCAG guidelines and are usable by peop
 
 ### When to Read Each Reference
 
-**`./references/accessibility-audit-taskflow.md`** — Read when you need detailed guidance on accessibility audit taskflow aspects of this skill.
+**`./references/accessibility-audit-taskflow.md`** — Read when you need a concrete example of a completed accessibility audit for the TaskFlow project.
+
+**`./references/wcag-compliance-standards.md`** — Read when you need detailed WCAG 2.1/2.2 guidelines, conformance level requirements (A/AA/AAA), specific success criteria definitions, or legal/regulatory compliance context.
+
+**`./references/accessibility-testing-methods.md`** — Read when planning accessibility testing, selecting automated tools (axe, WAVE, Lighthouse), conducting manual keyboard or screen reader testing, or building accessibility testing into your workflow.
+
+**`./references/assistive-technology-considerations.md`** — Read when designing for specific assistive technologies (screen readers, magnifiers, voice control, switch devices), annotating designs for accessible implementation, or understanding cognitive accessibility requirements.
