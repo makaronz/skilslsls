@@ -442,3 +442,13 @@ Result: ~40,000 visitors per variant
 **`/references/checkout-optimization.md`** — Read when reducing cart abandonment and optimizing the checkout flow for ecommerce.
 
 **`/references/psychology-tactics.md`** — Read when applying behavioral psychology principles like scarcity, urgency, and social proof to increase conversions.
+
+**`/references/ab-testing-methodologies.md`** — Introduction.
+
+**`/references/analytics-measurement.md`** — Introduction.
+
+**`/references/cro-fundamentals-frameworks.md`** — Introduction.
+
+**`/references/landing-page-best-practices.md`** — Introduction.
+
+**`/references/user-experience-optimization.md`** — Introduction.

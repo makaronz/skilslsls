@@ -91,3 +91,13 @@ Read when creating ads for specific platforms. Contains detailed character limit
 
 ### `/references/persuasion-formulas.md`
 Read when crafting compelling hooks and CTAs. Contains proven copywriting frameworks and examples.
+
+**`/references/display-ads.md`** — Display Ads Copywriting.
+
+**`/references/google-ads.md`** — Google Ads Copywriting.
+
+**`/references/linkedin-ads.md`** — LinkedIn Ads Copywriting.
+
+**`/references/meta-ads.md`** — Meta Ads Copywriting.
+
+**`/references/video-ads.md`** — Video Ads Copywriting.

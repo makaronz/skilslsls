@@ -358,3 +358,49 @@ Scripts should support thumbnail and title promises:
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/best-practices-for-video-script-writing.md`** — Best Practices For Video Script Writing.
+
+**`/references/collaboration-with-video-production.md`** — Collaboration With Video Production.
+
+**`/references/common-video-script-mistakes.md`** — Common Video Script Mistakes.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/dialogue-writing-for-videos.md`** — Dialogue Writing For Videos.
+
+**`/references/explainer-video-scripts.md`** — Problem-Solution Structure.
+
+**`/references/measuring-video-script-effectiveness.md`** — Measuring Video Script Effectiveness.
+
+**`/references/music-and-sound-effects.md`** — Music And Sound Effects.
+
+**`/references/script-formatting.md`** — Two-Column Format (Audio/Visual).
+
+**`/references/storyboarding-and-shot-lists.md`** — Storyboarding And Shot Lists.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/types-of-video-scripts.md`** — YouTube Videos.
+
+**`/references/using-the-reference-files.md`** — Using the Reference Files.
+
+**`/references/video-ad-scripts.md`** — Benefit-Focused Messaging.
+
+**`/references/video-script-briefs-and-client-communication.md`** — Video Script Briefs And Client Communication.
+
+**`/references/video-script-fundamentals.md`** — Visual Storytelling.
+
+**`/references/video-script-length-and-timing.md`** — Video Script Length And Timing.
+
+**`/references/video-script-structure.md`** — Hook/Opening (First 3-5 Seconds).
+
+**`/references/video-script-templates.md`** — Video Script Templates.
+
+**`/references/why-video-scripts-differ-from-other-writing.md`** — Why Video Scripts Differ from Other Writing.
+
+**`/references/writing-compelling-hooks.md`** — Pattern Interrupts.
+
+**`/references/writing-for-different-video-lengths.md`** — Short-Form (15-60 Seconds).
+
+**`/references/youtube-script-writing.md`** — YouTube-Specific Structure.

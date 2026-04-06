@@ -353,3 +353,31 @@ Select and prepare final tagline for launch.
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/best-practices-summary.md`** — Best Practices Summary.
+
+**`/references/brainstorming-techniques-for-taglines.md`** — Brainstorming Techniques For Taglines.
+
+**`/references/characteristics-of-great-taglines.md`** — The MUSIC Framework for Effective Taglines.
+
+**`/references/common-mistakes-and-how-to-avoid-them.md`** — Common Mistakes And How To Avoid Them.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/difference-between-taglines-slogans-and-mottos.md`** — Difference Between Taglines, Slogans, and Mottos.
+
+**`/references/evolving-and-updating-taglines.md`** — Evolving And Updating Taglines.
+
+**`/references/famous-tagline-examples-and-analysis.md`** — Famous Tagline Examples And Analysis.
+
+**`/references/tagline-types-and-categories.md`** — 1. Descriptive Taglines.
+
+**`/references/tagline-vs-brand-positioning.md`** — Tagline Vs Brand Positioning.
+
+**`/references/templates-and-frameworks.md`** — Templates And Frameworks.
+
+**`/references/the-tagline-creation-process.md`** — The Tagline Creation Process.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/why-taglines-matter.md`** — Strategic Functions of Taglines.

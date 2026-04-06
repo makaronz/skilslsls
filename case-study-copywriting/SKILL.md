@@ -211,3 +211,7 @@ Case study copywriting combines storytelling techniques with data-driven evidenc
 **`/references/writing-techniques.md`** — Read when drafting case studies, with narrative frameworks, data presentation methods, and storytelling best practices.
 
 **`/references/industry-templates.md`** — Read when creating case studies for specific industries (SaaS, healthcare, financial services) with tailored approaches and compliance considerations.
+
+**`/references/interview-process.md`** — Interview Process.
+
+**`/references/writing-guide.md`** — Writing Guide.

@@ -358,3 +358,57 @@ The creators who succeed long-term are rarely the most talented or best-equipped
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/algorithm-optimization.md`** — Algorithm Optimization.
+
+**`/references/audience-research-and-personas.md`** — Why Audience Research Matters.
+
+**`/references/audience-retention-strategies.md`** — Audience Retention Strategies.
+
+**`/references/best-practices.md`** — Best Practices.
+
+**`/references/collaboration-and-workflow.md`** — Collaboration And Workflow.
+
+**`/references/common-mistakes.md`** — Common Mistakes.
+
+**`/references/competitive-analysis.md`** — Competitive Analysis.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/content-batching-and-production-workflow.md`** — Content Batching And Production Workflow.
+
+**`/references/content-gaps-and-opportunities.md`** — Content Gaps And Opportunities.
+
+**`/references/content-pillars-and-themes.md`** — What Are Content Pillars?.
+
+**`/references/content-quality-vs-quantity.md`** — Content Quality Vs Quantity.
+
+**`/references/content-repurposing-strategy.md`** — Content Repurposing Strategy.
+
+**`/references/defining-video-goals-and-objectives.md`** — The Importance of Clear Goals.
+
+**`/references/evergreen-vs-timely-content.md`** — Evergreen Vs Timely Content.
+
+**`/references/long-term-channel-growth-strategy.md`** — Long Term Channel Growth Strategy.
+
+**`/references/performance-tracking-and-iteration.md`** — Performance Tracking And Iteration.
+
+**`/references/publishing-frequency-and-consistency.md`** — Publishing Frequency And Consistency.
+
+**`/references/resource-planning.md`** — Resource Planning.
+
+**`/references/seasonal-and-trending-content-planning.md`** — Seasonal And Trending Content Planning.
+
+**`/references/series-vs-standalone-videos.md`** — Benefits of Series Content.
+
+**`/references/tools-and-templates.md`** — Tools And Templates.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/video-content-audit.md`** — Video Content Audit.
+
+**`/references/video-content-calendar-creation.md`** — Simple Spreadsheet Calendar.
+
+**`/references/video-content-formats-by-goal.md`** — Video Content Formats By Goal.
+
+**`/references/video-formats-and-types.md`** — Tutorial/How-To.

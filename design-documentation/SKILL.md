@@ -467,3 +467,25 @@ Buttons trigger actions or navigate users. Use the appropriate variant based on 
 **`/references/component:_button_full.md`** — Component: Button (Full).
 
 **`/references/example_output.md`** — Example Output.
+
+**`/references/2_design_principles.md`** — 2. Design Principles.
+
+**`/references/4_components.md`** — Component Index.
+
+**`/references/7_assets.md`** — Illustrations.
+
+**`/references/8_accessibility.md`** — Checklist.
+
+**`/references/component_button.md`** — Description.
+
+**`/references/description.md`** — Description.
+
+**`/references/design_documentation_structure.md`** — 3. Components.
+
+**`/references/design_tokens_project_.md`** — Brand Colors.
+
+**`/references/success_criteria.md`** — Quality Indicators.
+
+**`/references/table_of_contents.md`** — Table of Contents.
+
+**`/references/ui_patterns.md`** — Form Pattern.

@@ -347,3 +347,55 @@ As platforms, technologies, and consumer preferences continue to evolve, the fun
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/a-b-testing-video-content.md`** — A B Testing Video Content.
+
+**`/references/best-practices.md`** — Best Practices.
+
+**`/references/common-mistakes.md`** — Common Mistakes.
+
+**`/references/community-building-through-video.md`** — Community Building Through Video.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/cross-platform-distribution-strategy.md`** — Cross Platform Distribution Strategy.
+
+**`/references/influencer-and-partnership-distribution.md`** — Influencer And Partnership Distribution.
+
+**`/references/measuring-video-marketing-roi.md`** — Measuring Video Marketing Roi.
+
+**`/references/organic-vs-paid-video-distribution.md`** — Organic Vs Paid Video Distribution.
+
+**`/references/platform-selection-and-strategy.md`** — Choosing the Right Platforms.
+
+**`/references/social-media-video-marketing.md`** — Facebook Video Strategy.
+
+**`/references/tools-and-platforms.md`** — Tools And Platforms.
+
+**`/references/types-of-marketing-videos.md`** — Brand Videos.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/video-advertising.md`** — Video Advertising.
+
+**`/references/video-analytics-and-kpis.md`** — Video Analytics And Kpis.
+
+**`/references/video-content-calendar-and-planning.md`** — Video Content Calendar And Planning.
+
+**`/references/video-email-marketing.md`** — Video Email Marketing.
+
+**`/references/video-embeds-and-syndication.md`** — Video Embeds And Syndication.
+
+**`/references/video-marketing-automation.md`** — Video Marketing Automation.
+
+**`/references/video-marketing-funnel.md`** — Awareness Stage (Top of Funnel).
+
+**`/references/video-marketing-strategy-fundamentals.md`** — Defining Video Marketing Objectives.
+
+**`/references/video-on-landing-pages-and-websites.md`** — Video On Landing Pages And Websites.
+
+**`/references/video-promotion-tactics.md`** — Video Promotion Tactics.
+
+**`/references/video-remarketing-and-retargeting.md`** — Video Remarketing And Retargeting.
+
+**`/references/youtube-marketing-strategy.md`** — YouTube Content Strategy.

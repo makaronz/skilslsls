@@ -64,3 +64,11 @@ This skill provides analytical support but does not constitute legal advice. All
 **`/references/commercial-contracts.md`** — Read for MSAs, SOWs, and distribution agreements.
 
 **`/references/risk-assessment.md`** — Read for risk analysis methodology and mitigation strategies.
+
+**`/references/contract-lifecycle-management.md`** — Contract Lifecycle Management (CLM).
+
+**`/references/contract-negotiation-strategies.md`** — Contract Negotiation Strategies and Key Terms.
+
+**`/references/contract-review-methodology.md`** — Contract Review Methodology and Best Practices.
+
+**`/references/employment-contract-provisions.md`** — Employment Contract Key Provisions.

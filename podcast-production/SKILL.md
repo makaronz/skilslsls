@@ -365,3 +365,13 @@ Podcast production encompasses the complete workflow of creating audio content f
 **`/references/podcast-editing-techniques.md`** — Read when learning editing workflows, applying audio processing, or using AI-powered editing tools.
 
 **`/references/podcast-growth-strategies.md`** — Read when developing marketing plans, optimizing for discovery, or building engaged audiences.
+
+**`/references/editing-and-post-production.md`** — Introduction.
+
+**`/references/equipment-and-recording-setup.md`** — Introduction.
+
+**`/references/hosting-distribution-rss.md`** — Introduction.
+
+**`/references/monetization-strategies.md`** — Introduction.
+
+**`/references/scripting-and-storytelling.md`** — Introduction.

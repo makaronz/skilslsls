@@ -349,3 +349,43 @@ Remember: the best animation is often the one the audience doesn't consciously n
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/accessibility-considerations-for-animations.md`** — Accessibility Considerations For Animations.
+
+**`/references/advanced-animation-techniques.md`** — Advanced Animation Techniques.
+
+**`/references/animation-best-practices-by-presentation-type.md`** — Animation Best Practices By Presentation Type.
+
+**`/references/animation-principles-from-traditional-animation.md`** — Animation Principles from Traditional Animation.
+
+**`/references/animation-timing-and-sequencing.md`** — Start Triggers.
+
+**`/references/best-practices-for-animation-and-transitions.md`** — Best Practices For Animation And Transitions.
+
+**`/references/common-animation-mistakes-to-avoid.md`** — Common Animation Mistakes To Avoid.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/layering-and-choreography-of-multiple-animations.md`** — Animation Choreography Principles.
+
+**`/references/performance-and-file-size-considerations.md`** — Performance And File Size Considerations.
+
+**`/references/platform-specific-animation-capabilities.md`** — Platform Specific Animation Capabilities.
+
+**`/references/subtle-vs-dramatic-animations.md`** — When to Use Subtle Animations.
+
+**`/references/testing-and-previewing-animations.md`** — Testing And Previewing Animations.
+
+**`/references/the-purpose-and-psychology-of-motion-in-presentations.md`** — The Science of Visual Attention.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/types-of-object-animations.md`** — Entrance Effects.
+
+**`/references/types-of-slide-transitions.md`** — Cut/None.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/when-to-avoid-animations.md`** — The "Would This Work as a Cut?" Test.
+
+**`/references/when-to-use-animations.md`** — Signals That Animation Would Help.

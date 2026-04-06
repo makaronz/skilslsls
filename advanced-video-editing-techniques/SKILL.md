@@ -99,3 +99,15 @@ Read when implementing advanced transitions like whip pans, morphs, or seamless 
 
 ### `/references/compositing-basics.md`
 Read when performing green screen keying, masking, rotoscoping, or motion tracking.
+
+**`/references/audio-editing.md`** — Audio Editing in Video.
+
+**`/references/cutting-techniques.md`** — Advanced Cutting Techniques.
+
+**`/references/effects-compositing.md`** — Effects and Compositing.
+
+**`/references/multi-camera.md`** — Multi-Camera Editing.
+
+**`/references/speed-time.md`** — Speed and Time Manipulation.
+
+**`/references/storytelling.md`** — Storytelling Through Editing.

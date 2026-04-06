@@ -88,3 +88,13 @@ Read when implementing Lean tools like VSM, 5S, Kanban, Kaizen events, and JIT p
 
 ### `/references/six-sigma-analysis.md`
 Read when applying statistical analysis, SPC, DOE, or hypothesis testing in Six Sigma projects.
+
+**`/references/agile-improvement.md`** — Agile Process Improvement.
+
+**`/references/change-management.md`** — Change Management for Process Improvement.
+
+**`/references/lean-methodology.md`** — Lean Methodology.
+
+**`/references/lean-six-sigma.md`** — Lean Six Sigma Integration.
+
+**`/references/toc-bpr.md`** — Theory of Constraints and Business Process Reengineering.

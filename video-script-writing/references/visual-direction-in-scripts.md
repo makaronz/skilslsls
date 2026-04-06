@@ -1,1 +1,0 @@
-## Visual Direction in Scripts

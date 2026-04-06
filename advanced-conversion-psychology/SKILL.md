@@ -92,3 +92,11 @@ Read when applying specific biases to page elements. Contains detailed bias mech
 
 ### `/references/emotional-triggers.md`
 Read when crafting messaging and emotional appeals. Contains trigger psychology and ethical application guidelines.
+
+**`/references/behavioral-economics.md`** — Behavioral Economics in Conversions.
+
+**`/references/cialdini-principles.md`** — Cialdini's 6 Principles of Persuasion.
+
+**`/references/neuromarketing.md`** — Neuromarketing Principles.
+
+**`/references/trust-credibility.md`** — Trust and Credibility Psychology.

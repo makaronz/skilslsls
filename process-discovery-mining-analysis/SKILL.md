@@ -354,3 +354,37 @@ Process mining is a family of techniques that use event log data to discover, mo
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/best-practices-for-process-discovery-and-analysis.md`** — Best Practices For Process Discovery And Analysis.
+
+**`/references/collaborative-process-discovery.md`** — Collaborative Process Discovery.
+
+**`/references/common-process-analysis-mistakes.md`** — Common Process Analysis Mistakes.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/data-collection-for-process-analysis.md`** — Data Collection For Process Analysis.
+
+**`/references/from-discovery-to-improvement.md`** — From Discovery To Improvement.
+
+**`/references/process-analytics-and-reporting.md`** — Process Analytics And Reporting.
+
+**`/references/process-benchmarking.md`** — Process Benchmarking.
+
+**`/references/process-discovery-techniques.md`** — Process Discovery Techniques.
+
+**`/references/process-maturity-assessment.md`** — Process Maturity Assessment.
+
+**`/references/process-mining.md`** — Process Mining.
+
+**`/references/process-performance-measurement.md`** — Process Performance Measurement.
+
+**`/references/process-simulation-and-modeling.md`** — Process Simulation And Modeling.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/what-if-scenario-analysis.md`** — Cycle Time and Lead Time.
+
+**`/references/why-process-discovery-matters.md`** — Why Process Discovery Matters.

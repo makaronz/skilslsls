@@ -483,13 +483,13 @@ getUserById(userId); // OK
 ```
 
 ## Using the Reference Files
-
 ### When to Read Each Reference
-
 **`/references/advanced-types.md`** — Read when implementing conditional types, mapped types, template literals, or complex type transformations.
-
 **`/references/generics-patterns.md`** — Read when creating reusable generic functions, classes, or implementing type-safe APIs.
-
 **`/references/integration-guide.md`** — Read when integrating TypeScript with React, Node.js, Express, or other frameworks.
-
 **`/references/migration-guide.md`** — Read when converting JavaScript projects to TypeScript or upgrading TypeScript versions.
+**`/references/01_typescript_fundamentals_setup.md`** — Overview.
+**`/references/02_advanced_types_features.md`** — Overview.
+**`/references/03_design_patterns_architecture.md`** — TypeScript Design Patterns and Architecture.
+**`/references/04_best_practices_code_quality.md`** — TypeScript Best Practices and Code Quality.
+**`/references/05_framework_integration.md`** — TypeScript Framework Integration.

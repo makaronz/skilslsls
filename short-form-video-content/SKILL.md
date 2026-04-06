@@ -358,3 +358,47 @@ When repurposing horizontal content for short-form:
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/algorithm-optimization.md`** — Algorithm Optimization.
+
+**`/references/analytics-and-metrics.md`** — Analytics And Metrics.
+
+**`/references/best-practices.md`** — Best Practices.
+
+**`/references/call-to-action-in-short-videos.md`** — Call To Action In Short Videos.
+
+**`/references/captions-and-text-overlays.md`** — When to Use Effects.
+
+**`/references/common-mistakes.md`** — Common Mistakes.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/content-formats.md`** — Educational Content.
+
+**`/references/editing-techniques-for-short-form.md`** — Editing Techniques For Short Form.
+
+**`/references/pacing-and-rhythm.md`** — Pacing And Rhythm.
+
+**`/references/platform-specific-strategies.md`** — Platform Specific Strategies.
+
+**`/references/repurposing-content-across-platforms.md`** — Repurposing Content Across Platforms.
+
+**`/references/scripting-for-short-form-15-60-seconds.md`** — Script Structure.
+
+**`/references/series-and-content-batching.md`** — Series And Content Batching.
+
+**`/references/short-form-video-fundamentals.md`** — The Three Pillars of Successful Short-Form Content.
+
+**`/references/storytelling-in-60-seconds-or-less.md`** — Micro-Narrative Structure.
+
+**`/references/the-3-second-hook-rule.md`** — Why 3 Seconds Matters.
+
+**`/references/tools-and-apps.md`** — Tools And Apps.
+
+**`/references/transitions-and-effects.md`** — Transitions And Effects.
+
+**`/references/using-the-reference-files.md`** — Using the Reference Files.
+
+**`/references/vertical-video-optimization.md`** — Technical Requirements.
+
+**`/references/why-short-form-video-dominates.md`** — Algorithm Advantages.

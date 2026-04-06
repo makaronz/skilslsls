@@ -97,3 +97,13 @@ Read when selecting and applying extractive, abstractive, or hybrid techniques.
 
 ### `/references/multi-document-synthesis.md`
 Read when synthesizing or comparing multiple source documents.
+
+**`/references/academic-summaries.md`** — Academic and Research Summaries.
+
+**`/references/article-summaries.md`** — Article and News Summaries.
+
+**`/references/executive-summaries.md`** — Executive Summary Writing.
+
+**`/references/multi-source.md`** — Multi-Source Synthesis.
+
+**`/references/specialized-summaries.md`** — Specialized Document Summaries.

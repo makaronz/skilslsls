@@ -207,3 +207,9 @@ This skill enables comprehensive execution of Chief Executive Officer strategic 
 **`/references/board-governance.md`** — Read when preparing board materials, managing board relationships, or establishing governance frameworks.
 
 **`/references/crisis-management.md`** — Read when developing crisis response capabilities, managing active crises, or conducting crisis simulations.
+
+**`/references/governance-stakeholders.md`** — Governance & Stakeholders.
+
+**`/references/strategy-frameworks.md`** — Strategy Frameworks.
+
+**`/references/transformation-leadership.md`** — Transformation Leadership.

@@ -280,3 +280,7 @@ Apply consistent voice and messaging across:
 **`/references/storytelling-techniques.md`** — Read when developing brand narratives, creating customer stories, or crafting origin stories.
 
 **`/references/taglines-pitches.md`** — Read when writing taglines, elevator pitches, or brand manifestos.
+
+**`/references/implementation-guidelines.md`** — Implementation Guidelines.
+
+**`/references/voice-development.md`** — Voice Development.

@@ -256,3 +256,13 @@ Lifecycle marketing involves creating targeted strategies for each stage of the 
 **`/references/journey-mapping-guide.md`** — Read when creating detailed customer journey maps and identifying optimization opportunities.
 
 **`/references/lifecycle-metrics.md`** — Read when setting up measurement frameworks and dashboards for lifecycle marketing performance.
+
+**`/references/01_lifecycle_marketing_fundamentals.md`** — Overview.
+
+**`/references/02_automation_and_email_campaigns.md`** — Overview.
+
+**`/references/03_metrics_kpis_and_analytics.md`** — Overview.
+
+**`/references/04_advanced_strategies_and_tactics.md`** — Overview.
+
+**`/references/05_implementation_and_best_practices.md`** — Overview.

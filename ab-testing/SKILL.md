@@ -343,3 +343,13 @@ Analyze results by segment:
 **`/references/experiment-design-patterns.md`** — Read when designing complex experiments, implementing multivariate tests, or using advanced techniques like CUPED.
 
 **`/references/common-mistakes.md`** — Read when troubleshooting experiments, avoiding pitfalls, or understanding why results may be misleading.
+
+**`/references/common-pitfalls-and-mistakes.md`** — Introduction.
+
+**`/references/methodology-and-best-practices.md`** — Overview.
+
+**`/references/multivariate-testing-advanced.md`** — Introduction.
+
+**`/references/statistical-analysis-and-power.md`** — Introduction.
+
+**`/references/tools-and-platforms.md`** — Overview.

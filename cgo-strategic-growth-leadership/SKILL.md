@@ -234,3 +234,9 @@ This skill delivers Chief Growth Officer strategic capabilities: market expansio
 **`/references/revenue-optimization.md`** — Read when developing pricing strategy, designing packaging, or planning expansion revenue initiatives.
 
 **`/references/growth-analytics.md`** — Read when building growth dashboards, designing experiments, or establishing attribution models.
+
+**`/references/acquisition-optimization.md`** — Acquisition Optimization.
+
+**`/references/expansion-monetization.md`** — Expansion & Monetization.
+
+**`/references/growth-experimentation.md`** — Growth Experimentation.

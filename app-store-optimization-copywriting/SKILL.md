@@ -92,3 +92,11 @@ Read when optimizing for specific platform requirements, character limits, and i
 
 ### `/references/keyword-strategy.md`
 Read when conducting keyword research, prioritization, and seasonal optimization.
+
+**`/references/android-optimization.md`** — Google Play Store Optimization.
+
+**`/references/ios-optimization.md`** — iOS App Store Optimization.
+
+**`/references/keyword-research.md`** — ASO Keyword Research.
+
+**`/references/localization.md`** — ASO Localization.

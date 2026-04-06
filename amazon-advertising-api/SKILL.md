@@ -127,3 +127,9 @@ for search_term in search_term_report:
 **`/references/amazon-ads-api-setup.md`** — Read when setting up API access, including OAuth configuration, profile selection, and authentication troubleshooting.
 
 **`/references/api-automation-workflows.md`** — Read when building automation scripts, including bid management, keyword harvesting, and reporting automation.
+
+**`/references/advanced-automation-strategies.md`** — Overview.
+
+**`/references/amazon-ads-api-fundamentals.md`** — Overview.
+
+**`/references/api-integration-best-practices.md`** — Overview.

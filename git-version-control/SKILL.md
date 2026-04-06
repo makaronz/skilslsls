@@ -484,13 +484,13 @@ git submodule update --remote
 ```
 
 ## Using the Reference Files
-
 ### When to Read Each Reference
-
 **`/references/workflow-strategies.md`** — Read when choosing branching strategy, implementing GitFlow/GitHub Flow, or establishing team workflows.
-
 **`/references/advanced-commands.md`** — Read when performing complex operations like interactive rebase, cherry-pick, or bisect.
-
 **`/references/collaboration-guide.md`** — Read when setting up pull request workflows, code review processes, or managing forks.
-
 **`/references/troubleshooting.md`** — Read when resolving merge conflicts, recovering lost commits, or fixing repository issues.
+**`/references/advanced-git-techniques.md`** — Introduction.
+**`/references/branching-strategies.md`** — Branching Strategies - Git Version Control.
+**`/references/collaboration-best-practices.md`** — Collaboration Best Practices - Git Version Control.
+**`/references/git-fundamentals-workflows.md`** — Git Fundamentals Workflows - Git Version Control.
+**`/references/troubleshooting-recovery.md`** — Troubleshooting Recovery - Git Version Control.

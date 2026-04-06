@@ -219,3 +219,13 @@ tapEvent.bind(function() {
 **`/references/ar-creative-examples.md`** — Read when seeking inspiration or understanding successful AR campaigns.
 
 **`/references/ar-performance-optimization.md`** — Read when optimizing Lens performance or troubleshooting issues.
+
+**`/references/01-snapchat-ar-fundamentals.md`** — Introduction.
+
+**`/references/02-ar-lens-creation-tools.md`** — Introduction.
+
+**`/references/03-ar-campaign-strategy.md`** — Introduction.
+
+**`/references/04-ar-creative-best-practices.md`** — Introduction.
+
+**`/references/05-ar-analytics-optimization.md`** — Introduction.

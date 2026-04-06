@@ -355,3 +355,51 @@ Start with the fundamentals, measure obsessively, and iterate consistently. Vide
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/best-practices.md`** — Best Practices.
+
+**`/references/closed-captions-and-transcripts.md`** — Caption Options.
+
+**`/references/common-seo-mistakes.md`** — Common Seo Mistakes.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/end-screens-and-cards.md`** — End Screens And Cards.
+
+**`/references/engagement-signals.md`** — Click-Through Rate (CTR).
+
+**`/references/google-video-search-optimization.md`** — Google Video Search Optimization.
+
+**`/references/keyword-research-for-video.md`** — Why Video Keyword Research Differs.
+
+**`/references/playlists-and-series-optimization.md`** — Series Feature.
+
+**`/references/social-video-optimization.md`** — Social Video Optimization.
+
+**`/references/tags-and-hashtags-strategy.md`** — Understanding Tags.
+
+**`/references/thumbnail-optimization.md`** — Why Thumbnails Matter.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/using-the-reference-files.md`** — Using the Reference Files.
+
+**`/references/video-accessibility-and-seo.md`** — Video Accessibility And Seo.
+
+**`/references/video-chapters-and-timestamps.md`** — What Are Video Chapters?.
+
+**`/references/video-description-optimization.md`** — Description Purpose.
+
+**`/references/video-file-optimization.md`** — Technical Specifications.
+
+**`/references/video-schema-markup.md`** — Video Schema Markup.
+
+**`/references/video-title-optimization.md`** — Title Importance.
+
+**`/references/why-video-seo-matters.md`** — The Discovery Challenge.
+
+**`/references/youtube-algorithm-understanding.md`** — Algorithm Evolution.
+
+**`/references/youtube-seo-fundamentals.md`** — How YouTube Search Works.
+
+**`/references/youtube-studio-analytics.md`** — Youtube Studio Analytics.

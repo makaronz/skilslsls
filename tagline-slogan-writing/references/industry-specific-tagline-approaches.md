@@ -1,1 +1,0 @@
-## Industry-Specific Tagline Approaches

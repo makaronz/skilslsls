@@ -191,3 +191,13 @@ Break-Even ACOS: 40%
 **`/references/acos-optimization-strategies.md`** — Read when optimizing ACOS, including bid management, keyword optimization, and profitability analysis.
 
 **`/references/keyword-harvesting.md`** — Read when mining search term reports for new keywords, including harvesting workflows and negative keyword strategies.
+
+**`/references/advanced-automation.md`** — Introduction.
+
+**`/references/bid-optimization-strategies.md`** — Introduction.
+
+**`/references/campaign-fundamentals.md`** — Introduction.
+
+**`/references/keyword-targeting-mastery.md`** — Introduction.
+
+**`/references/performance-analytics.md`** — Introduction.

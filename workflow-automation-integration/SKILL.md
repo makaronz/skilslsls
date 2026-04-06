@@ -354,3 +354,41 @@ The workflow automation landscape continues to evolve with AI-enhanced automatio
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/advanced-automation-patterns.md`** — Advanced Automation Patterns.
+
+**`/references/api-integration-for-workflows.md`** — Api Integration For Workflows.
+
+**`/references/automation-roi-and-business-case.md`** — Automation Roi And Business Case.
+
+**`/references/building-vs-buying-automation-solutions.md`** — Building Vs Buying Automation Solutions.
+
+**`/references/common-automation-mistakes-to-avoid.md`** — Common Automation Mistakes To Avoid.
+
+**`/references/data-synchronization-and-transformation.md`** — Data Synchronization And Transformation.
+
+**`/references/error-handling-and-monitoring.md`** — Error Handling And Monitoring.
+
+**`/references/future-of-workflow-automation.md`** — Future Of Workflow Automation.
+
+**`/references/integration-patterns.md`** — Integration Patterns.
+
+**`/references/no-code-low-code-workflow-builders.md`** — No Code Low Code Workflow Builders.
+
+**`/references/rpa-robotic-process-automation-basics.md`** — Rpa Robotic Process Automation Basics.
+
+**`/references/security-considerations-for-automation.md`** — Security Considerations For Automation.
+
+**`/references/summary.md`** — Summary.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/trigger-action-automation-patterns.md`** — Event Triggers.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/workflow-automation-best-practices.md`** — Workflow Automation Best Practices.
+
+**`/references/workflow-automation-governance.md`** — Workflow Automation Governance.
+
+**`/references/workflow-orchestration.md`** — Workflow Orchestration.

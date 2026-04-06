@@ -480,13 +480,16 @@ Tier 4 (51+ sales/month): 25%
 **Networks for International**:
 
 ## Using the Reference Files
-
 ### When to Read Each Reference
-
 **`/references/network-comparison.md`** — Read when selecting affiliate networks, comparing features, costs, and capabilities across platforms.
-
 **`/references/recruitment-playbook.md`** — Read when building affiliate recruitment strategies, outreach templates, and onboarding processes.
-
 **`/references/fraud-prevention.md`** — Read when implementing fraud detection systems, policies, and monitoring processes.
-
 **`/references/optimization-tactics.md`** — Read when optimizing affiliate performance, testing commission structures, and scaling programs.
+**`/references/advanced-strategies-2026.md`** — Introduction.
+**`/references/advanced-tracking-analytics.md`** — Overview.
+**`/references/affiliate-program-optimization.md`** — Overview.
+**`/references/content-monetization-strategies.md`** — Content Monetization Strategies.
+**`/references/conversion-optimization-techniques.md`** — Conversion Optimization Techniques for Affiliate Marketing.
+**`/references/partnership-and-negotiation.md`** — Partnership and Negotiation Strategies for Affiliate Marketing.
+**`/references/seo-content-strategies.md`** — SEO and Content Strategies for Affiliate Marketing.
+**`/references/tracking-and-attribution.md`** — Tracking and Attribution in Affiliate Marketing.

@@ -132,3 +132,11 @@ This skill covers Sponsored Brands campaign creation, ad formats, keyword target
 **`/references/sponsored-brands-setup.md`** — Read when creating Sponsored Brands campaigns, including ad format selection, creative requirements, and targeting strategies.
 
 **`/references/brand-defense-strategy.md`** — Read when protecting brand searches, including keyword selection, bid strategies, and competitor monitoring.
+
+**`/references/campaign-setup-best-practices.md`** — Introduction.
+
+**`/references/creative-performance-analysis.md`** — Introduction.
+
+**`/references/measurement-reporting.md`** — Introduction.
+
+**`/references/targeting-optimization-strategies.md`** — Introduction.

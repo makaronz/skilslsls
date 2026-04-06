@@ -159,3 +159,7 @@ Define audiences through layered analysis:
 **`/references/brand-personality.md`** — Read when defining brand personality, selecting archetypes, or articulating brand promise and essence. Includes personality development exercises.
 
 **`/references/brand-architecture.md`** — Read when designing multi-brand portfolios, evaluating architecture models, or planning brand hierarchy. Contains architecture decision frameworks.
+
+**`/references/competitive-analysis.md`** — Competitive Analysis.
+
+**`/references/strategy-frameworks.md`** — Brand Strategy Frameworks.

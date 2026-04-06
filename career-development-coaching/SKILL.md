@@ -240,3 +240,7 @@ This skill serves as a virtual career coach, providing end-to-end support for ca
 **`/references/interview-techniques.md`** — Read when preparing for interviews, with comprehensive question banks, STAR story development, and company research approaches.
 
 **`/references/career-transitions.md`** — Read when planning career pivots or industry changes, with transition frameworks and skills transferability analysis.
+
+**`/references/interview-guide.md`** — Interview Guide.
+
+**`/references/resume-templates.md`** — Resume Templates.

@@ -141,3 +141,13 @@ This skill covers Microsoft Advertising Search campaign setup, keyword targeting
 **`/references/microsoft-ads-setup-guide.md`** — Read when setting up Microsoft Advertising campaigns, including account creation, import from Google Ads, and campaign configuration.
 
 **`/references/bing-vs-google-strategy.md`** — Read when developing cross-platform search strategy, including budget allocation, bid adjustments, and performance comparison.
+
+**`/references/01-search-campaign-fundamentals.md`** — Overview.
+
+**`/references/02-keyword-research-targeting.md`** — Overview.
+
+**`/references/03-campaign-structure-best-practices.md`** — Overview.
+
+**`/references/04-bidding-strategies-optimization.md`** — Overview.
+
+**`/references/05-performance-tracking-analytics.md`** — Overview.

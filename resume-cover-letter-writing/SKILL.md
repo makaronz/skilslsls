@@ -358,3 +358,41 @@ Recognition that demonstrates excellence.
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/addressing-employment-gaps.md`** — Addressing Employment Gaps.
+
+**`/references/advanced-resume-strategies.md`** — Advanced Resume Strategies.
+
+**`/references/best-practices-summary.md`** — Best Practices Summary.
+
+**`/references/common-resume-mistakes.md`** — Common Resume Mistakes.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/cover-letter-advanced-strategies.md`** — Cover Letter Advanced Strategies.
+
+**`/references/cover-letter-best-practices.md`** — Cover Letter Best Practices.
+
+**`/references/cover-letter-mistakes.md`** — Cover Letter Mistakes.
+
+**`/references/industry-specific-resume-guidance.md`** — Industry Specific Resume Guidance.
+
+**`/references/keywords-and-ats-optimization.md`** — Understanding Applicant Tracking Systems.
+
+**`/references/linkedin-profile-optimization.md`** — Linkedin Profile Optimization.
+
+**`/references/personal-branding.md`** — Personal Branding.
+
+**`/references/resume-formats.md`** — Chronological Resume.
+
+**`/references/resume-fundamentals.md`** — What Is a Resume?.
+
+**`/references/resume-sections.md`** — Contact Information.
+
+**`/references/templates-and-examples.md`** — Templates And Examples.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/writing-achievement-focused-bullet-points.md`** — The Power of Accomplishments.

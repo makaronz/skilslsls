@@ -472,3 +472,13 @@ const AsyncComponent = defineAsyncComponent({
 **`/references/performance-optimization.md`** — Read when optimizing rendering, implementing virtual scrolling, or reducing bundle size.
 
 **`/references/testing-guide.md`** — Read when writing component tests, testing composables, or setting up E2E tests.
+
+**`/references/01-vue-fundamentals-core-concepts.md`** — Introduction to Vue.js.
+
+**`/references/02-vue-component-architecture-patterns.md`** — Single Responsibility Principle.
+
+**`/references/03-vue-ecosystem-tools.md`** — 1. Vue Router.
+
+**`/references/04-vue-best-practices-optimization.md`** — File Structure Best Practices.
+
+**`/references/05-vue-real-world-applications.md`** — Project Structure for Large Applications.

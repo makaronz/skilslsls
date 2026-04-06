@@ -444,3 +444,13 @@ module.exports = {
 **`/references/module-federation.md`** — Read when implementing micro-frontends or sharing code between applications.
 
 **`/references/troubleshooting.md`** — Read when debugging build issues, resolving loader conflicts, or optimizing build performance.
+
+**`/references/01_fundamentals-and-core-concepts.md`** — Introduction to Webpack.
+
+**`/references/02_optimization-techniques.md`** — Introduction.
+
+**`/references/03_loaders-and-plugins-ecosystem.md`** — Introduction.
+
+**`/references/04_development-server-and-hmr.md`** — Introduction.
+
+**`/references/05_real-world-configurations.md`** — Introduction.

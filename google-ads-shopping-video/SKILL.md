@@ -124,3 +124,13 @@ All Products
 **`/references/shopping-feed-optimization.md`** — Read when optimizing product feeds, including title formulas, image requirements, and feed troubleshooting.
 
 **`/references/video-ad-creation.md`** — Read when creating video ads, including scriptwriting, production tips, and format-specific best practices.
+
+**`/references/cross-format-integration.md`** — Introduction.
+
+**`/references/performance-optimization.md`** — Introduction.
+
+**`/references/product-feed-optimization.md`** — Introduction.
+
+**`/references/shopping-campaigns-fundamentals.md`** — Introduction.
+
+**`/references/video-campaigns-strategies.md`** — Introduction.

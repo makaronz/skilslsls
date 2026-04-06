@@ -356,3 +356,55 @@ Transform objections into reasons to buy:
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/best-practices-for-vsl-creation.md`** — Best Practices For Vsl Creation.
+
+**`/references/building-credibility-and-authority.md`** — Establishing Expertise.
+
+**`/references/call-to-action-strategies.md`** — Call To Action Strategies.
+
+**`/references/common-vsl-mistakes.md`** — Common Vsl Mistakes.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/music-and-sound-design.md`** — Music And Sound Design.
+
+**`/references/on-screen-text-and-graphics.md`** — On Screen Text And Graphics.
+
+**`/references/opening-hooks-for-vsls.md`** — The Contrarian Hook.
+
+**`/references/overcoming-objections.md`** — Common Objections Framework.
+
+**`/references/presenter-vs-voiceover-vsls.md`** — Presenter Vs Voiceover Vsls.
+
+**`/references/presenting-the-solution.md`** — The Unique Mechanism.
+
+**`/references/problem-agitation-and-amplification.md`** — The Art of Agitation.
+
+**`/references/scarcity-and-urgency-tactics.md`** — Legitimate Scarcity Types.
+
+**`/references/storytelling-in-vsls.md`** — The Hero's Journey in VSL Format.
+
+**`/references/testing-and-optimization.md`** — Testing And Optimization.
+
+**`/references/the-offer-and-pricing-presentation.md`** — Building the Offer Stack.
+
+**`/references/the-perfect-vsl-script-outline.md`** — Pre-Production Planning.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/types-of-vsls.md`** — Long-Form VSLs.
+
+**`/references/using-the-reference-files.md`** — Using the Reference Files.
+
+**`/references/visual-elements-and-b-roll.md`** — Visual Elements And B Roll.
+
+**`/references/vsl-funnel-integration.md`** — Vsl Funnel Integration.
+
+**`/references/vsl-production-tips.md`** — Vsl Production Tips.
+
+**`/references/vsl-structure-and-framework.md`** — The Classic VSL Framework.
+
+**`/references/vsl-vs-traditional-sales-pages.md`** — When to Use VSLs.
+
+**`/references/why-vsls-work.md`** — The Psychology Behind VSL Effectiveness.

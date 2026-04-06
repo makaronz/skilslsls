@@ -312,6 +312,12 @@ Map stakeholders using Power-Interest Grid:
 
 **`/references/resistance-management.md`** — Read when facing significant resistance, managing difficult stakeholders, or needing advanced techniques for overcoming opposition. Includes diagnostic tools, intervention strategies, and case examples.
 
+**`/references/culture-change.md`** — Cultural Change and Transformation.
+
+**`/references/implementation-guide.md`** — Change Implementation Guide.
+
+**`/references/metrics-measurement.md`** — Change Metrics and Measurement.
+
 ## Best Practices
 
 ### Do's

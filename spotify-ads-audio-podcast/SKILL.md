@@ -229,3 +229,13 @@ sp('track', 'AddToCart', {
 **`/references/spotify-creative-examples.md`** — Read when seeking inspiration or understanding successful audio campaigns.
 
 **`/references/spotify-measurement-guide.md`** — Read when analyzing performance or setting up conversion tracking.
+
+**`/references/01_spotify_advertising_platform_overview.md`** — Introduction.
+
+**`/references/02_podcast_advertising_fundamentals.md`** — Introduction.
+
+**`/references/03_creating_effective_podcast_ads.md`** — Introduction.
+
+**`/references/04_podcast_marketing_strategies.md`** — Introduction.
+
+**`/references/05_measurement_optimization_roi.md`** — Introduction.

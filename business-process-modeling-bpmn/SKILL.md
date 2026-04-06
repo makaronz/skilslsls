@@ -187,3 +187,9 @@ Business process modeling captures how work flows through an organization—acti
 **`/references/process-patterns.md`** — Read when designing complex process flows for proven patterns and anti-pattern avoidance.
 
 **`/references/modeling-methodology.md`** — Read when planning process modeling projects for workshop facilitation, validation, and documentation approaches.
+
+**`/references/bpmn-notation.md`** — BPMN Notation.
+
+**`/references/modeling-best-practices.md`** — Modeling Best Practices.
+
+**`/references/process-analysis.md`** — Process Analysis.

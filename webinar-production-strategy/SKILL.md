@@ -357,3 +357,61 @@ Commit to the craft of webinar production and strategy, and you'll develop one o
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/advanced-webinar-formats.md`** — Advanced Webinar Formats.
+
+**`/references/audio-quality-for-webinars.md`** — Why Audio Matters Most.
+
+**`/references/best-practices.md`** — Best Practices.
+
+**`/references/camera-and-lighting-setup.md`** — Framing.
+
+**`/references/co-presenters-and-panelists.md`** — Co Presenters And Panelists.
+
+**`/references/common-mistakes.md`** — Common Mistakes.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/conversion-optimization.md`** — Conversion Optimization.
+
+**`/references/email-sequences-for-webinars.md`** — Email Sequences For Webinars.
+
+**`/references/handling-q-a-sessions.md`** — Handling Q A Sessions.
+
+**`/references/international-and-global-webinars.md`** — International And Global Webinars.
+
+**`/references/live-vs-automated-webinars.md`** — Live Vs Automated Webinars.
+
+**`/references/presentation-design-for-webinars.md`** — Professional Aesthetics.
+
+**`/references/repurposing-webinar-content.md`** — Repurposing Webinar Content.
+
+**`/references/technical-setup-and-platforms.md`** — Technical Requirements.
+
+**`/references/tools-and-platforms.md`** — Tools And Platforms.
+
+**`/references/topic-selection-and-positioning.md`** — Competitive Analysis.
+
+**`/references/types-of-webinars.md`** — Product Demo Webinars.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/webinar-analytics-and-metrics.md`** — Webinar Analytics And Metrics.
+
+**`/references/webinar-follow-up-and-replay-strategy.md`** — Webinar Follow Up And Replay Strategy.
+
+**`/references/webinar-presentation-skills.md`** — Webinar Presentation Skills.
+
+**`/references/webinar-promotion-and-registration.md`** — Webinar Promotion And Registration.
+
+**`/references/webinar-series-strategy.md`** — Webinar Series Strategy.
+
+**`/references/webinar-strategy-and-planning.md`** — Strategic Alignment.
+
+**`/references/webinar-structure-and-flow.md`** — Content Section (25-40 minutes).
+
+**`/references/webinar-team-roles-and-responsibilities.md`** — Webinar Team Roles And Responsibilities.
+
+**`/references/webinar-technology-deep-dive.md`** — Webinar Technology Deep Dive.
+
+**`/references/why-webinars-work.md`** — The Business Case for Webinars.

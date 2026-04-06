@@ -290,3 +290,13 @@ def optimize_linkedin_budgets(account_id, campaigns):
 **`/references/linkedin-campaign-structure.md`** — Read for campaign architecture best practices, budget allocation strategies, objective selection, and scaling approaches.
 
 **`/references/linkedin-automation-patterns.md`** — Read when implementing automated campaign management, performance-based optimization, and MCP integration workflows.
+
+**`/references/01_linkedin_ads_fundamentals.md`** — Overview.
+
+**`/references/02_targeting_strategies.md`** — Overview.
+
+**`/references/03_campaign_structure_and_optimization.md`** — Overview.
+
+**`/references/04_creative_best_practices.md`** — Overview.
+
+**`/references/05_measurement_and_reporting.md`** — Overview.

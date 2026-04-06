@@ -255,3 +255,11 @@ Asset Group 3: Trail Running
 **`/references/asset-group-strategies.md`** — Read when creating multiple asset groups, including organization strategies, audience signal optimization, and creative theme development.
 
 **`/references/pmax-optimization-guide.md`** — Read when optimizing Performance Max campaigns, including asset performance analysis, budget management, and troubleshooting common issues.
+
+**`/references/audience-signals.md`** — Introduction.
+
+**`/references/campaign-setup-optimization.md`** — Introduction.
+
+**`/references/measurement-insights.md`** — Introduction.
+
+**`/references/performance-max-overview.md`** — Introduction.

@@ -356,3 +356,51 @@ SMS marketing is heavily regulated. Non-compliance can result in significant fin
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/advanced-sms-marketing-strategies.md`** — Advanced Sms Marketing Strategies.
+
+**`/references/best-practices-summary.md`** — Best Practices Summary.
+
+**`/references/call-to-action-in-sms.md`** — Call-to-Action in SMS.
+
+**`/references/case-studies.md`** — Case Studies.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/final-thoughts.md`** — Final Thoughts.
+
+**`/references/integration-with-other-channels.md`** — Integration with Other Channels.
+
+**`/references/mms-multimedia-messaging.md`** — MMS (Multimedia Messaging).
+
+**`/references/personalization-in-sms.md`** — Personalization in SMS.
+
+**`/references/promotional-sms-best-practices.md`** — Promotional Sms Best Practices.
+
+**`/references/shortcodes-and-keywords.md`** — Shortcodes.
+
+**`/references/sms-automation-and-triggers.md`** — Behavior-Triggered Messages.
+
+**`/references/sms-campaign-structure.md`** — Campaign Planning.
+
+**`/references/sms-compliance.md`** — SMS Compliance.
+
+**`/references/sms-landing-pages.md`** — SMS Landing Pages.
+
+**`/references/sms-marketing-checklist.md`** — Sms Marketing Checklist.
+
+**`/references/sms-marketing-fundamentals.md`** — Message Structure.
+
+**`/references/sms-marketing-roi.md`** — Sms Marketing Roi.
+
+**`/references/sms-marketing-trends.md`** — Sms Marketing Trends.
+
+**`/references/templates-and-examples.md`** — Templates And Examples.
+
+**`/references/timing-and-frequency.md`** — Timing and Frequency.
+
+**`/references/transactional-sms.md`** — Transactional SMS.
+
+**`/references/types-of-sms-campaigns.md`** — Promotional SMS.
+
+**`/references/using-the-reference-files.md`** — Using the Reference Files.

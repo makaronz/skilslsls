@@ -1,1 +1,0 @@
-## Creating Urgency and Scarcity

@@ -356,3 +356,53 @@ As accessibility standards and technologies continue to evolve, commit to ongoin
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/accessibility-checklist-for-presentations.md`** — Accessibility Checklist For Presentations.
+
+**`/references/accessible-links-and-navigation.md`** — Navigation Accessibility.
+
+**`/references/accessible-pdf-exports.md`** — Accessible Pdf Exports.
+
+**`/references/accessible-presentation-delivery.md`** — Accessible Presentation Delivery.
+
+**`/references/accessible-tables-and-data-visualization.md`** — Accessible Table Design.
+
+**`/references/alternative-text-for-images-and-graphics.md`** — Writing Effective Alt Text.
+
+**`/references/animation-and-motion-accessibility.md`** — Providing Controls.
+
+**`/references/best-practices-for-accessible-presentations.md`** — Best Practices For Accessible Presentations.
+
+**`/references/color-and-contrast-accessibility.md`** — Color Contrast Ratios.
+
+**`/references/common-accessibility-mistakes-to-avoid.md`** — Common Accessibility Mistakes To Avoid.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/document-structure-and-reading-order.md`** — Proper Heading Hierarchy.
+
+**`/references/keyboard-navigation-and-focus-indicators.md`** — Keyboard Navigation And Focus Indicators.
+
+**`/references/language-and-plain-language-principles.md`** — Language And Plain Language Principles.
+
+**`/references/legal-and-compliance-considerations.md`** — Legal And Compliance Considerations.
+
+**`/references/multimedia-accessibility.md`** — Multimedia Accessibility.
+
+**`/references/platform-specific-accessibility-features.md`** — Platform Specific Accessibility Features.
+
+**`/references/screen-reader-compatibility.md`** — How Screen Readers Work with Presentations.
+
+**`/references/testing-for-accessibility.md`** — Testing For Accessibility.
+
+**`/references/tools-and-resources-for-accessibility.md`** — Tools And Resources For Accessibility.
+
+**`/references/types-of-disabilities-to-consider.md`** — Hearing Impairments.
+
+**`/references/typography-and-readability.md`** — Font Selection for Accessibility.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/wcag-applied-to-presentations.md`** — WCAG Applied to Presentations.
+
+**`/references/why-accessibility-matters-in-presentations.md`** — The Business Case for Accessibility.

@@ -358,3 +358,55 @@ End-of-training assessment to evaluate learning achievement.
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/adapting-training-to-different-contexts.md`** — Adapting Training To Different Contexts.
+
+**`/references/adult-learning-principles-andragogy.md`** — Adult Learning Principles (Andragogy).
+
+**`/references/common-mistakes-in-training-presentations.md`** — Common Mistakes In Training Presentations.
+
+**`/references/differences-between-training-presentations-and-other-types.md`** — Differences Between Training Presentations and Other Types.
+
+**`/references/engagement-strategies-for-training.md`** — Engagement Strategies For Training.
+
+**`/references/feedback-and-evaluation-methods.md`** — Feedback And Evaluation Methods.
+
+**`/references/follow-up-and-reinforcement-strategies.md`** — Follow Up And Reinforcement Strategies.
+
+**`/references/handling-difficult-participants-and-challenging-situations.md`** — Handling Difficult Participants And Challenging Situations.
+
+**`/references/hands-on-practice-and-skill-development.md`** — The Practice Principle.
+
+**`/references/interactive-presentation-techniques.md`** — Interactive Presentation Techniques.
+
+**`/references/knowledge-checks-and-assessments.md`** — Formative Assessment.
+
+**`/references/learning-objectives-and-outcomes.md`** — Learning Objectives and Outcomes.
+
+**`/references/managing-different-learning-styles.md`** — Managing Different Learning Styles.
+
+**`/references/measuring-training-effectiveness.md`** — Measuring Training Effectiveness.
+
+**`/references/pacing-and-timing-in-training-sessions.md`** — Pacing And Timing In Training Sessions.
+
+**`/references/participant-materials.md`** — Participant Materials.
+
+**`/references/summary.md`** — Summary.
+
+**`/references/tools-and-resources-for-trainers.md`** — Tools And Resources For Trainers.
+
+**`/references/training-delivery-excellence.md`** — Training Delivery Excellence.
+
+**`/references/training-presentation-design-best-practices.md`** — Training Presentation Design Best Practices.
+
+**`/references/training-presentation-structures-and-frameworks.md`** — The 4MAT Model.
+
+**`/references/training-session-planning-checklist.md`** — Training Session Planning Checklist.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/virtual-training-and-online-workshops.md`** — Virtual Training And Online Workshops.
+
+**`/references/visual-aids-and-materials-for-training.md`** — Slide Design for Training.
+
+**`/references/workshop-design-and-facilitation.md`** — Workshop Design and Facilitation.

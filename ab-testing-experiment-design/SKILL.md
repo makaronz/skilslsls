@@ -105,3 +105,9 @@ Read when performing statistical analysis, calculating sample sizes, or interpre
 
 ### `/references/multivariate-testing.md`
 Read when designing experiments with multiple factors or variants.
+
+**`/references/ab-test-fundamentals.md`** — A/B Test Fundamentals.
+
+**`/references/advanced-methods.md`** — Advanced Experimentation Methods.
+
+**`/references/statistical-analysis.md`** — Statistical Analysis for A/B Tests.

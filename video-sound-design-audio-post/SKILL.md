@@ -349,3 +349,25 @@ Dialogue is typically the most important audio element, as it carries the story 
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/audio-mixing-fundamentals.md`** — Audio Mixing Fundamentals.
+
+**`/references/audio-post-production-best-practices.md`** — Audio Post Production Best Practices.
+
+**`/references/audio-post-production-workflow.md`** — Audio Post Production Workflow.
+
+**`/references/common-audio-mistakes-in-video.md`** — Common Audio Mistakes In Video.
+
+**`/references/compression-and-dynamics.md`** — Compression and Dynamics.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/dialogue-editing-and-cleanup.md`** — Dialogue Editing and Cleanup.
+
+**`/references/eq-equalization-for-video.md`** — EQ (Equalization) for Video.
+
+**`/references/noise-reduction-and-audio-restoration.md`** — Types of Noise.
+
+**`/references/using-the-reference-files.md`** — Using the Reference Files.
+
+**`/references/why-audio-is-50-of-video.md`** — Why Audio Is 50% of Video.

@@ -1,1 +1,0 @@
-## Hook Formulas and Patterns

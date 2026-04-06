@@ -1,1 +1,0 @@
-## Stereo vs. Surround Sound

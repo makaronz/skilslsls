@@ -356,3 +356,49 @@ Preparation extends beyond content to delivery:
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+**`/references/best-practices-for-sales-presentations.md`** — Best Practices For Sales Presentations.
+
+**`/references/closing-techniques-within-presentations.md`** — Closing Techniques Within Presentations.
+
+**`/references/common-mistakes-to-avoid.md`** — Common Mistakes To Avoid.
+
+**`/references/conclusion.md`** — Conclusion.
+
+**`/references/follow-up-presentation-strategies.md`** — Follow Up Presentation Strategies.
+
+**`/references/identifying-and-addressing-pain-points.md`** — Pain Discovery During Presentations.
+
+**`/references/industry-specific-considerations.md`** — Industry Specific Considerations.
+
+**`/references/measuring-presentation-effectiveness.md`** — Measuring Presentation Effectiveness.
+
+**`/references/opening-and-establishing-credibility.md`** — The Critical First Minutes.
+
+**`/references/pre-presentation-preparation-and-research.md`** — Prospect Research.
+
+**`/references/presenting-the-value-proposition-effectively.md`** — Value Proposition Structure.
+
+**`/references/pricing-and-roi-presentation-strategies.md`** — Pricing And Roi Presentation Strategies.
+
+**`/references/product-service-demonstration-best-practices.md`** — Product Service Demonstration Best Practices.
+
+**`/references/q-a-management-in-sales-contexts.md`** — Q A Management In Sales Contexts.
+
+**`/references/sales-presentation-design-considerations.md`** — Sales Presentation Design Considerations.
+
+**`/references/sales-presentation-frameworks-and-structures.md`** — Problem-Solution-Benefit Framework.
+
+**`/references/social-proof-and-case-studies.md`** — Social Proof And Case Studies.
+
+**`/references/storytelling-in-sales-presentations.md`** — The Power of Story.
+
+**`/references/the-psychology-of-sales-presentations.md`** — The Psychology Of Sales Presentations.
+
+**`/references/tools-and-resources.md`** — Tools And Resources.
+
+**`/references/types-of-sales-presentations.md`** — Discovery Presentations.
+
+**`/references/using-the-reference-files.md`** — When to Read Each Reference.
+
+**`/references/virtual-sales-presentations.md`** — Virtual Sales Presentations.
