@@ -33,7 +33,7 @@ for z in *.zip; do unzip -q "$z" -d ./.claude/skills/; done
 
 | Skill | Źródło | Po co |
 |---|---|---|
-| `ui-ux-pro-max` | sar-skill | Skrypty (`search.py`, `design_system.py`) + bazy CSV per stack: react, nextjs, svelte, vue, shadcn, tailwind, **swiftui**, flutter. Jeden z dwóch skilli w paczce z wykonywalnym kodem (drugi to `gateway-watchdog`), reszta to proza |
+| `ui-ux-pro-max` | sar-skill | Skrypty (`search.py`, `design_system.py`) + 13 baz CSV per stack: react, nextjs, nuxtjs, nuxt-ui, vue, svelte, astro, shadcn, html-tailwind, react-native, flutter, **swiftui**, jetpack-compose — plus zbiory przekrojowe (typografia, kolory, ikony, wykresy, ux-guidelines, react-performance). Jeden z dwóch skilli w paczce z wykonywalnym kodem (drugi to `gateway-watchdog`), reszta to proza |
 | `web-application-design` | skilslsls | 17 referencji: wzorce aplikacji webowych, tabele danych, formularze, stany, nawigacja, panel admina, onboarding |
 | `ui-ux-design-user-experience` | skilslsls | IA, interaction design, design systems, handoff, wzorce mobile i webowe |
 | `accessibility-wcag` | skilslsls | WCAG 2.2, ARIA, nawigacja klawiaturą, audyty, zgodność ADA/Section 508 |
