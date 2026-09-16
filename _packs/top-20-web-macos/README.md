@@ -33,7 +33,7 @@ for z in *.zip; do unzip -q "$z" -d ./.claude/skills/; done
 
 | Skill | Źródło | Po co |
 |---|---|---|
-| `ui-ux-pro-max` | sar-skill | Skrypty (`search.py`, `design_system.py`) + bazy CSV per stack: react, nextjs, svelte, vue, shadcn, tailwind, **swiftui**, flutter. Jedyny skill w paczce z realnym kodem, nie tylko prozą |
+| `ui-ux-pro-max` | sar-skill | Skrypty (`search.py`, `design_system.py`) + bazy CSV per stack: react, nextjs, svelte, vue, shadcn, tailwind, **swiftui**, flutter. Jeden z dwóch skilli w paczce z wykonywalnym kodem (drugi to `gateway-watchdog`), reszta to proza |
 | `web-application-design` | skilslsls | 17 referencji: wzorce aplikacji webowych, tabele danych, formularze, stany, nawigacja, panel admina, onboarding |
 | `ui-ux-design-user-experience` | skilslsls | IA, interaction design, design systems, handoff, wzorce mobile i webowe |
 | `accessibility-wcag` | skilslsls | WCAG 2.2, ARIA, nawigacja klawiaturą, audyty, zgodność ADA/Section 508 |
@@ -68,6 +68,7 @@ for z in *.zip; do unzip -q "$z" -d ./.claude/skills/; done
 
 - `gateway-watchdog` jest pisany pod bramkę OpenClaw. Wartość ogólna leży we wzorcu launchd
   (plist + cooldown + boot grace), nie w samym endpointcie — przy adaptacji zmień URL i etykietę joba.
-- Skille z `skilslsls` to materiał opisowy z referencjami; `ui-ux-pro-max` to jedyny z wykonywalnym kodem.
+- Skille z `skilslsls` to materiał opisowy z referencjami. Wykonywalny kod wnoszą tylko dwa spoza tego repo:
+  `ui-ux-pro-max` (skrypty Pythona + dane CSV) i `gateway-watchdog` (skrypty bash).
 - Nie ma tu dedykowanego skilla „macOS AppKit/Catalyst” — w tych repo taki nie istnieje.
   `ios-development-swift-swiftui` + dane `swiftui` z `ui-ux-pro-max` to maksimum pokrycia Maca, jakie dało się zebrać.
