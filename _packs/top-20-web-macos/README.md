@@ -4,7 +4,7 @@ Wybór 20 najbardziej użytecznych skilli z repozytoriów `skilslsls`, `sar-skil
 pod kątem budowania aplikacji webowych i aplikacji na macOS.
 
 Każdy skill to osobne archiwum ZIP. Po rozpakowaniu dostajesz katalog `<nazwa-skilla>/`
-z plikiem `SKILL.md` (frontmatter + treść) oraz — tam gdzie są — katalogami `references/`,
+z plikiem `SKILL.md` (frontmatter + treść) oraz — tam, gdzie są — katalogami `references/`,
 `scripts/`, `data/`.
 
 ## Instalacja
@@ -62,12 +62,12 @@ for z in *.zip; do unzip -q "$z" -d ./.claude/skills/; done
 | Skill | Źródło | Po co |
 |---|---|---|
 | `ios-development-swift-swiftui` | skilslsls | Swift + SwiftUI: deklaratywne UI, MVVM, `@State`/`@Observable`, SwiftData, WidgetKit, HIG. SwiftUI jest wspólne dla iOS i macOS, więc to najbliższy natywnemu Macowi materiał w zbiorze |
-| `gateway-watchdog` | .openclaw | Produkcyjny watchdog dla macOS: `launchd`/plist, grace period przy boocie, progresywne retry, wykrywanie stale PID, cooldown restartów. W komplecie działające `scripts/*.sh` — wzorzec do każdego demona na Macu |
+| `gateway-watchdog` | .openclaw | Produkcyjny watchdog dla macOS: `launchd`/plist, grace period przy boocie, progresywne retry, wykrywanie stale PID, cooldown restartów. W komplecie znajdują się działające skrypty `scripts/*.sh` — wzorzec do każdego demona na Macu |
 
 ## Uwagi
 
 - `gateway-watchdog` jest pisany pod bramkę OpenClaw. Wartość ogólna leży we wzorcu launchd
   (plist + cooldown + boot grace), nie w samym endpointcie — przy adaptacji zmień URL i etykietę joba.
 - Skille z `skilslsls` to materiał opisowy z referencjami; `ui-ux-pro-max` to jedyny z wykonywalnym kodem.
-- Nie ma tu dedykowanego skilla „macOS AppKit/Catalyst" — w tych repo taki nie istnieje.
+- Nie ma tu dedykowanego skilla „macOS AppKit/Catalyst” — w tych repo taki nie istnieje.
   `ios-development-swift-swiftui` + dane `swiftui` z `ui-ux-pro-max` to maksimum pokrycia Maca, jakie dało się zebrać.
